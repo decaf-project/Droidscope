@@ -1,1 +1,0 @@
--no-audio -partition-size 300 -sysdir ~/android_art/build/out/target/product/generic/ -kernel ~/android_art_kernel/goldfish/arch/arm/boot/zImage -memory 4000 -qemu -monitor stdio

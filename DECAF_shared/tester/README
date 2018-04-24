@@ -1,8 +1,0 @@
-Extracting offsets and other data required by the DroidScope VMI for a custom kernel!
-(We already have this ready for the android goldfish 2.69.xx kernel in procinfo.ini)
-
-If you choose to use a custom kernel with droidscope, you need to first the extract some infromation required by Droidscope VMI for it first. 
-
-To do that you need to first compile the kenrnel with "kernel modules" enabled. Use the following steps for the same
-
-
