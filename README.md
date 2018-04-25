@@ -1,5 +1,13 @@
 # README
-A docker file to build droidscope environment
+A docker file to build droidscope environment  
+## Host environment:  
+* android-5.0.0_r2  
+* goldfish3.4  
+* docker  
+* Please find more instructions here:  
+* https://source.android.com/setup/build/downloading  
+ https://github.com/enlighten5/android_build  
+
 ## Steps to run droidscope in docker:
 ### 1.Build the docker image
 `docker build --network=host -t droidscope /path/to/the/dockerfile`
