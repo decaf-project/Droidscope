@@ -21,6 +21,8 @@ and copy that IMAGE ID
 ### 5. use `tab` to list the supported commands  
 eg. command `ps` to list the running process
 ## Steps to use droidunpacker
+### 1. build unpacker
+`./condigure --decaf-path=/<PATH_TO_DROIDSCOPE>/ --target=android` then `make`
 ### 1. load droidscope plugin
 `load_plugin DECAF_plugin/old/old_dex_extarctor/libunpacker.so`  
 ### 2. run cmd
