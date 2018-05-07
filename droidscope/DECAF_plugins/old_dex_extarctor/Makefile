@@ -30,14 +30,6 @@ qemu-tools:
 decaf:
 	make -C $(TARGET_DIR) all
 
-%.o: %.c
-	$(CC) $(CFLAGS) $(DEFINES) -c -o $@ $<
-
-%.o: %.cpp
-	$(CPP) $(CXXFLAGS) $(DEFINES) -c -o $@ $<
-
-%.o: %.cc
-	$(CPP) $(CXXFLAGS) $(DEFINES) -c -o $@ $<
 
 libartt: $(ART_SHLIB_64)
 
@@ -48,10 +40,10 @@ libunpacker-static.so: $(OBJS)
 	$(CPP) -static-libgcc -Wl,-static $(LDFLAGS) $^ -o $@ $(LIBS)
 
 clean:
-	rm -f *.o *.d *.so *.a *~ $(PLUGIN)
+	rm -f *.d *.so *.a *~ $(PLUGIN)
 
 realclean:
-	rm -f *.o *.d *.so *.a *~ $(PLUGIN) config-plugin.h config-plugin.mak
+	rm -f *.d *.so *.a *~ $(PLUGIN) config-plugin.h config-plugin.mak
 
 # Include automatically generated dependency files
 -include $(wildcard *.d)
