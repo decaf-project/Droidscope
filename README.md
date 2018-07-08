@@ -15,10 +15,14 @@ A docker file to build droidscope environment
 `sudo docker image ls`
 and copy that IMAGE ID
 ### 3.start the docker image:
-`sudo docker run -it -e DISPLAY -v /PATH/TO/ANDROID/SOURCE/:/home/developer/android_source -v /tmp/.X11-unix:/tmp/.X11-unix -v $HOME/.Xauthority:/home/developer/.Xauthority --net=host IMAGE_ID`
-### 4.start droidscope in docker container:
+`sudo docker run -it -e DISPLAY -v /PATH/TO/ANDROID/SOURCE/external:/home/developer/Droidscope -v /tmp/.X11-unix:/tmp/.X11-unix -v $HOME/.Xauthority:/home/developer/.Xauthority --net=host IMAGE_ID`
+### 4. build droidscope
+`sudo ./android-configure.sh`  
+`sudo make -j4`  
+
+### 5.start droidscope in docker container:
 `./startDroidScope.sh`
-### 5. use `tab` to list the supported commands  
+### 6. use `tab` to list the supported commands  
 eg. command `ps` to list the running process
 ## Steps to use droidunpacker
 ### 1. build unpacker
