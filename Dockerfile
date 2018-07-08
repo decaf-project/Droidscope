@@ -18,7 +18,8 @@ RUN apt-get install git-core gnupg flex bison gperf build-essential -y
 RUN apt-get install tar wget zlib1g-dev libc6-dev-i386 -y
 RUN apt-get install lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev ccache -y
 RUN apt-get install libgl1-mesa-dev libxml2-utils xsltproc unzip m4 -y
-
+RUN apt-get install gcc-4.8 gcc-4.8-multilib g++-4.8 g++-4.8-multilib -y
+RUN update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.8 50
 
 # Replace 1000 with your user / group id
 RUN export uid=1000 gid=1000 && \
@@ -32,6 +33,7 @@ RUN export uid=1000 gid=1000 && \
 USER developer
 ENV HOME /home/developer
 RUN mkdir -p /home/developer/android_source
+RUN mkdir -p /home/developer/images
 
 WORKDIR /home/developer
 RUN sudo git clone https://github.com/enlighten5/Droidscope.git
