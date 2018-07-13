@@ -14,6 +14,7 @@ RUN apt-get install libtool -y
 RUN apt-get install autoconf -y
 RUN apt-get install sudo -y
 RUN apt-get install xorg-dev -y
+RUN apt-get install vim -y
 RUN apt-get install git-core gnupg flex bison gperf build-essential -y
 RUN apt-get install tar wget zlib1g-dev libc6-dev-i386 -y
 RUN apt-get install lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev ccache -y
