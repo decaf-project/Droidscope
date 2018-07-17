@@ -1036,7 +1036,6 @@ void process_name(const char* proc_name, char* process_hash)
       log_mw = fopen(name4.c_str(), "w+");
     }
     
-
     jsonInit();
     setInJson("hash", proc_name);
   }

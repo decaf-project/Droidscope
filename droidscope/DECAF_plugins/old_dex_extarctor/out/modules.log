@@ -1,1254 +1,347 @@
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f0000 module_end 0xb49f3000, size 0x3000
-cr3: 2c698000, module loaded - binder module_base 0xa777a000 module_end 0xa779a000, size 0x20000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ed000 module_end 0xb49ee000, size 0x1000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ea000 module_end 0xb49ed000, size 0x3000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xa757b000 module_end 0xa757c000, size 0x1000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xa7578000 module_end 0xa757b000, size 0x3000
-cr3: 2c698000, module loaded - framework-res.apk module_base 0xa7573000 module_end 0xa815c000, size 0xbe9000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xa7578000 module_end 0xa757b000, size 0x3000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xa757b000 module_end 0xa757c000, size 0x1000
-cr3: 2c698000, module loaded - binder module_base 0xa777a000 module_end 0xa779a000, size 0x20000
-cr3: 2c698000, module loaded - base.apk module_base 0xa7573000 module_end 0xa75a5000, size 0x32000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xa7578000 module_end 0xa757b000, size 0x3000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xa757b000 module_end 0xa757c000, size 0x1000
-cr3: 2c698000, module loaded - base.apk module_base 0xa7546000 module_end 0xa7578000, size 0x32000
-cr3: 2c698000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xa7545000 module_end 0xa754f000, size 0xa000
-cr3: 2c698000, module loaded - base.apk module_base 0xa7546000 module_end 0xa7578000, size 0x32000
-cr3: 2c698000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xa7544000 module_end 0xa754e000, size 0xa000
-cr3: 2c698000, module loaded - base.apk module_base 0xa7546000 module_end 0xa7578000, size 0x32000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-ElfFile reservation for /data/dalvik-cache/arm module_base 0xb49e1000 module_end 0xb49ea000, size 0x9000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-ElfFile reservation for /data/dalvik-cache/arm module_base 0xb49e8000 module_end 0xb49f1000, size 0x9000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ea000 module_end 0xb49ed000, size 0x3000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ed000 module_end 0xb49ee000, size 0x1000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f0000 module_end 0xb49f3000, size 0x3000
-cr3: 2c698000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xb49e1000 module_end 0xb49eb000, size 0xa000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-ElfFile reservation for /data/dalvik-cache/arm module_base 0xb49e8000 module_end 0xb49f1000, size 0x9000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ea000 module_end 0xb49ed000, size 0x3000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ed000 module_end 0xb49ee000, size 0x1000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f0000 module_end 0xb49f3000, size 0x3000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-ElfFile reservation for /data/dalvik-cache/arm module_base 0xb49e9000 module_end 0xb49f2000, size 0x9000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ea000 module_end 0xb49ed000, size 0x3000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ed000 module_end 0xb49ee000, size 0x1000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f0000 module_end 0xb49f3000, size 0x3000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49d8000 module_end 0xb49e1000, size 0x9000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49c7000 module_end 0xb49d8000, size 0x11000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49be000 module_end 0xb49c7000, size 0x9000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b5000 module_end 0xb49be000, size 0x9000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b0000 module_end 0xb49b5000, size 0x5000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-main space module_base 0x12c00000 module_end 0x18c00000, size 0x6000000
-cr3: 2c794000, module loaded - system@framework@boot.art module_base 0x7fabd000 module_end 0x805db000, size 0xb1e000
-cr3: 2c794000, module loaded - system@framework@boot.oat module_base 0x805db000 module_end 0x83541000, size 0x2f66000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-non moving space module_base 0x83541000 module_end 0x87541000, size 0x4000000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-alloc space module_base 0x836a4000 module_end 0x87541000, size 0x3e9d000
-cr3: 2c794000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xa7544000 module_end 0xa754e000, size 0xa000
-cr3: 2c794000, module loaded - base.apk module_base 0xa7546000 module_end 0xa7578000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xa7578000 module_end 0xa757b000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xa757b000 module_end 0xa757c000, size 0x1000
-cr3: 2c794000, module loaded - framework-res.apk module_base 0xae18c000 module_end 0xaed75000, size 0xbe9000
-cr3: 2c794000, module loaded - tzdata module_base 0xaed75000 module_end 0xaee00000, size 0x8b000
-cr3: 2c794000, module loaded - libwebviewchromium_loader.so module_base 0xaef0d000 module_end 0xaef10000, size 0x3000
-cr3: 2c794000, module loaded - libjnigraphics.so module_base 0xaef10000 module_end 0xaef13000, size 0x3000
-cr3: 2c794000, module loaded - libcompiler_rt.so module_base 0xaef13000 module_end 0xaef1b000, size 0x8000
-cr3: 2c794000, module loaded - libandroid.so module_base 0xaef1b000 module_end 0xaef2b000, size 0x10000
-cr3: 2c794000, module loaded - libpixelflinger.so module_base 0xaef2b000 module_end 0xaef4e000, size 0x23000
-cr3: 2c794000, module loaded - libGLES_android.so module_base 0xaef4e000 module_end 0xaef64000, size 0x16000
-cr3: 2c794000, module loaded - libjavacrypto.so module_base 0xaef63000 module_end 0xaef7b000, size 0x18000
-cr3: 2c794000, module loaded - librs_jni.so module_base 0xaef7b000 module_end 0xaef84000, size 0x9000
-cr3: 2c794000, module loaded - libaudioeffect_jni.so module_base 0xaef84000 module_end 0xaef8a000, size 0x6000
-cr3: 2c794000, module loaded - libsoundpool.so module_base 0xaef8a000 module_end 0xaef8e000, size 0x4000
-cr3: 2c794000, module loaded - libstagefright_amrnb_common.so module_base 0xaef8e000 module_end 0xaef9c000, size 0xe000
-cr3: 2c794000, module loaded - libvorbisidec.so module_base 0xaef9c000 module_end 0xaefb7000, size 0x1b000
-cr3: 2c794000, module loaded - libstagefright_yuv.so module_base 0xaefb7000 module_end 0xaefbb000, size 0x4000
-cr3: 2c794000, module loaded - libstagefright_omx.so module_base 0xaefbb000 module_end 0xaefda000, size 0x1f000
-cr3: 2c794000, module loaded - libstagefright_avc_common.so module_base 0xaefda000 module_end 0xaefe1000, size 0x7000
-cr3: 2c794000, module loaded - libopus.so module_base 0xaefe1000 module_end 0xaf01b000, size 0x3a000
-cr3: 2c794000, module loaded - libdrmframework.so module_base 0xaf01b000 module_end 0xaf036000, size 0x1b000
-cr3: 2c794000, module loaded - libstagefright.so module_base 0xaf036000 module_end 0xaf149000, size 0x113000
-cr3: 2c794000, module loaded - libmtp.so module_base 0xaf149000 module_end 0xaf15f000, size 0x16000
-cr3: 2c794000, module loaded - libexif.so module_base 0xaf15f000 module_end 0xaf18b000, size 0x2c000
-cr3: 2c794000, module loaded - libmedia_jni.so module_base 0xaf18b000 module_end 0xaf1c7000, size 0x3c000
-cr3: 2c794000, module loaded - CarroisGothicSC-Regular.ttf module_base 0xaf1c7000 module_end 0xaf1d1000, size 0xa000
-cr3: 2c794000, module loaded - DancingScript-Bold.ttf module_base 0xaf1d1000 module_end 0xaf1ee000, size 0x1d000
-cr3: 2c794000, module loaded - DancingScript-Regular.ttf module_base 0xaf1ee000 module_end 0xaf20b000, size 0x1d000
-cr3: 2c794000, module loaded - ComingSoon.ttf module_base 0xaf20b000 module_end 0xaf21a000, size 0xf000
-cr3: 2c794000, module loaded - CutiveMono.ttf module_base 0xaf21a000 module_end 0xaf22b000, size 0x11000
-cr3: 2c794000, module loaded - DroidSansMono.ttf module_base 0xaf22b000 module_end 0xaf246000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSerif-BoldItalic.ttf module_base 0xaf246000 module_end 0xaf286000, size 0x40000
-cr3: 2c794000, module loaded - NotoSerif-Italic.ttf module_base 0xaf286000 module_end 0xaf2c3000, size 0x3d000
-cr3: 2c794000, module loaded - NotoSerif-Bold.ttf module_base 0xaf2c3000 module_end 0xaf300000, size 0x3d000
-cr3: 2c794000, module loaded - NotoSerif-Regular.ttf module_base 0xaf401000 module_end 0xaf43e000, size 0x3d000
-cr3: 2c794000, module loaded - RobotoCondensed-BoldItalic.ttf module_base 0xaf43e000 module_end 0xaf47e000, size 0x40000
-cr3: 2c794000, module loaded - RobotoCondensed-Bold.ttf module_base 0xaf47e000 module_end 0xaf4b9000, size 0x3b000
-cr3: 2c794000, module loaded - RobotoCondensed-Italic.ttf module_base 0xaf4b9000 module_end 0xaf4f9000, size 0x40000
-cr3: 2c794000, module loaded - RobotoCondensed-Regular.ttf module_base 0xaf4f9000 module_end 0xaf534000, size 0x3b000
-cr3: 2c794000, module loaded - RobotoCondensed-LightItalic.ttf module_base 0xaf534000 module_end 0xaf575000, size 0x41000
-cr3: 2c794000, module loaded - RobotoCondensed-Light.ttf module_base 0xaf575000 module_end 0xaf5b0000, size 0x3b000
-cr3: 2c794000, module loaded - MTLmr3m.ttf module_base 0xaf5b0000 module_end 0xaf821000, size 0x271000
-cr3: 2c794000, module loaded - DroidSansFallback.ttf module_base 0xaf821000 module_end 0xafbfa000, size 0x3d9000
-cr3: 2c794000, module loaded - NotoColorEmoji.ttf module_base 0xafbfa000 module_end 0xafd4d000, size 0x153000
-cr3: 2c794000, module loaded - NotoSansSymbols-Regular-Subsetted.ttf module_base 0xafd4d000 module_end 0xafd6e000, size 0x21000
-cr3: 2c794000, module loaded - NanumGothic.ttf module_base 0xafd6e000 module_end 0xafea9000, size 0x13b000
-cr3: 2c794000, module loaded - NotoSansMyanmarUI-Bold.ttf module_base 0xafea9000 module_end 0xafec1000, size 0x18000
-cr3: 2c794000, module loaded - NotoSansMyanmarUI-Regular.ttf module_base 0xafec1000 module_end 0xafed8000, size 0x17000
-cr3: 2c794000, module loaded - NotoSansMyanmar-Bold.ttf module_base 0xafed8000 module_end 0xafef2000, size 0x1a000
-cr3: 2c794000, module loaded - NotoSansMyanmar-Regular.ttf module_base 0xafef2000 module_end 0xaff0d000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansLaoUI-Bold.ttf module_base 0xaff0d000 module_end 0xaff15000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLaoUI-Regular.ttf module_base 0xaff15000 module_end 0xaff1d000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLao-Bold.ttf module_base 0xaff1d000 module_end 0xaff25000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLao-Regular.ttf module_base 0xaff25000 module_end 0xaff2d000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansKhmerUI-Bold.ttf module_base 0xaff2d000 module_end 0xaff36000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKhmerUI-Regular.ttf module_base 0xaff36000 module_end 0xaff40000, size 0xa000
-cr3: 2c794000, module loaded - NotoSansKhmer-Bold.ttf module_base 0xaff40000 module_end 0xaff49000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKhmer-Regular.ttf module_base 0xaff49000 module_end 0xaff52000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKannadaUI-Bold.ttf module_base 0xaff52000 module_end 0xaff66000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannadaUI-Regular.ttf module_base 0xaff66000 module_end 0xaff7a000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannada-Bold.ttf module_base 0xaff7a000 module_end 0xaff8e000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannada-Regular.ttf module_base 0xaff8e000 module_end 0xaffa2000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansTeluguUI-Bold.ttf module_base 0xaffa2000 module_end 0xaffbd000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansTeluguUI-Regular.ttf module_base 0xaffbd000 module_end 0xaffd9000, size 0x1c000
-cr3: 2c794000, module loaded - NotoSansTelugu-Bold.ttf module_base 0xaffd9000 module_end 0xafff4000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansTelugu-Regular.ttf module_base 0xafff4000 module_end 0xb000f000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansBengaliUI-Bold.ttf module_base 0xb000f000 module_end 0xb0029000, size 0x1a000
-cr3: 2c794000, module loaded - NotoSansBengaliUI-Regular.ttf module_base 0xb0029000 module_end 0xb0044000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansBengali-Bold.ttf module_base 0xb0044000 module_end 0xb005c000, size 0x18000
-cr3: 2c794000, module loaded - NotoSansBengali-Regular.ttf module_base 0xb005c000 module_end 0xb0075000, size 0x19000
-cr3: 2c794000, module loaded - NotoSansMalayalamUI-Bold.ttf module_base 0xb0075000 module_end 0xb0084000, size 0xf000
-cr3: 2c794000, module loaded - NotoSansMalayalamUI-Regular.ttf module_base 0xb0084000 module_end 0xb0093000, size 0xf000
-cr3: 2c794000, module loaded - NotoSansMalayalam-Bold.ttf module_base 0xb0093000 module_end 0xb00a1000, size 0xe000
-cr3: 2c794000, module loaded - NotoSansMalayalam-Regular.ttf module_base 0xb00a1000 module_end 0xb00af000, size 0xe000
-cr3: 2c794000, module loaded - NotoSansTamilUI-Bold.ttf module_base 0xb00af000 module_end 0xb00b8000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamilUI-Regular.ttf module_base 0xb00b8000 module_end 0xb00c1000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamil-Bold.ttf module_base 0xb00c1000 module_end 0xb00ca000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamil-Regular.ttf module_base 0xb00ca000 module_end 0xb00d3000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansDevanagariUI-Bold.ttf module_base 0xb00d3000 module_end 0xb00ef000, size 0x1c000
-cr3: 2c794000, module loaded - NotoSansDevanagariUI-Regular.ttf module_base 0xb00ef000 module_end 0xb010d000, size 0x1e000
-cr3: 2c794000, module loaded - NotoSansDevanagari-Bold.ttf module_base 0xb010d000 module_end 0xb012b000, size 0x1e000
-cr3: 2c794000, module loaded - NotoSansDevanagari-Regular.ttf module_base 0xb012b000 module_end 0xb014a000, size 0x1f000
-cr3: 2c794000, module loaded - NotoSansGeorgian-Bold.ttf module_base 0xb014a000 module_end 0xb014f000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansGeorgian-Regular.ttf module_base 0xb014f000 module_end 0xb0154000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansArmenian-Bold.ttf module_base 0xb0154000 module_end 0xb0158000, size 0x4000
-cr3: 2c794000, module loaded - NotoSansArmenian-Regular.ttf module_base 0xb0158000 module_end 0xb015c000, size 0x4000
-cr3: 2c794000, module loaded - NotoSansThaiUI-Bold.ttf module_base 0xb015c000 module_end 0xb0161000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansThaiUI-Regular.ttf module_base 0xb0161000 module_end 0xb0167000, size 0x6000
-cr3: 2c794000, module loaded - NotoSansThai-Bold.ttf module_base 0xb0167000 module_end 0xb016c000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansThai-Regular.ttf module_base 0xb016c000 module_end 0xb0172000, size 0x6000
-cr3: 2c794000, module loaded - NotoSansHebrew-Bold.ttf module_base 0xb0172000 module_end 0xb0177000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansHebrew-Regular.ttf module_base 0xb0177000 module_end 0xb017c000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansEthiopic-Bold.ttf module_base 0xb017c000 module_end 0xb019f000, size 0x23000
-cr3: 2c794000, module loaded - NotoSansEthiopic-Regular.ttf module_base 0xb019f000 module_end 0xb01c2000, size 0x23000
-cr3: 2c794000, module loaded - NotoNaskhUI-Bold.ttf module_base 0xb01c2000 module_end 0xb01de000, size 0x1c000
-cr3: 2c794000, module loaded - NotoNaskhUI-Regular.ttf module_base 0xb01de000 module_end 0xb01fb000, size 0x1d000
-cr3: 2c794000, module loaded - NotoNaskh-Bold.ttf module_base 0xb01fb000 module_end 0xb0217000, size 0x1c000
-cr3: 2c794000, module loaded - NotoNaskh-Regular.ttf module_base 0xb0217000 module_end 0xb0234000, size 0x1d000
-cr3: 2c794000, module loaded - Roboto-BoldItalic.ttf module_base 0xb0234000 module_end 0xb0275000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Bold.ttf module_base 0xb0275000 module_end 0xb02b1000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-BlackItalic.ttf module_base 0xb02b1000 module_end 0xb02f2000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Black.ttf module_base 0xb02f2000 module_end 0xb032e000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-MediumItalic.ttf module_base 0xb032e000 module_end 0xb036f000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Medium.ttf module_base 0xb036f000 module_end 0xb03aa000, size 0x3b000
-cr3: 2c794000, module loaded - Roboto-Italic.ttf module_base 0xb03aa000 module_end 0xb03eb000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Regular.ttf module_base 0xb03eb000 module_end 0xb0426000, size 0x3b000
-cr3: 2c794000, module loaded - icudt53l.dat module_base 0xb0426000 module_end 0xb1600000, size 0x11da000
-cr3: 2c794000, module loaded - libstagefright_enc_common.so module_base 0xb1700000 module_end 0xb1703000, size 0x3000
-cr3: 2c794000, module loaded - libjhead.so module_base 0xb1703000 module_end 0xb170e000, size 0xb000
-cr3: 2c794000, module loaded - Roboto-LightItalic.ttf module_base 0xb170f000 module_end 0xb1750000, size 0x41000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace alloc space mark-bitmap 4 module_base 0xb1a04000 module_end 0xb1aff000, size 0xfb000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space mark-bitmap 3 module_base 0xb1aff000 module_end 0xb1bbf000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space live-bitmap 3 module_base 0xb1bbf000 module_end 0xb1c7f000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-rosalloc page map module_base 0xb1c7f000 module_end 0xb1c82000, size 0x3000
-cr3: 2c794000, module loaded - icudt53l.dat module_base 0xb1c82000 module_end 0xb2e5c000, size 0x11da000
-cr3: 2c794000, module loaded - libjavacore.so module_base 0xb2e5c000 module_end 0xb2e95000, size 0x39000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2e95000 module_end 0xb2e98000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb2e98000 module_end 0xb2e99000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2e99000 module_end 0xb2f93000, size 0xfa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb2f93000 module_end 0xb2fc5000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2fc5000 module_end 0xb30bf000, size 0xfa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb30bf000 module_end 0xb30f1000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-mark sweep sweep array free buffer module_base 0xb30f1000 module_end 0xb30f7000, size 0x6000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-live stack module_base 0xb30f7000 module_end 0xb34f8000, size 0x401000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocation stack module_base 0xb34f8000 module_end 0xb38f9000, size 0x401000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-mark stack module_base 0xb38f9000 module_end 0xb3939000, size 0x40000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-card table module_base 0xb3939000 module_end 0xb47cc000, size 0xe93000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large marked objects module_base 0xb47cc000 module_end 0xb47ec000, size 0x20000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large live objects module_base 0xb47ec000 module_end 0xb480c000, size 0x20000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space 1 mark-bitmap 2 module_base 0xb480c000 module_end 0xb48cc000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space 1 live-bitmap 2ess32 module_base 0xb48cc000 module_end 0xb498c000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-rosalloc page map module_base 0xb498c000 module_end 0xb49e8000, size 0x5c000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ad000 module_end 0xb49ae000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b0000 module_end 0xb49e1000, size 0x31000
-cr3: 2c794000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xb49e1000 module_end 0xb49eb000, size 0xa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ea000 module_end 0xb49ed000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ed000 module_end 0xb49ee000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f0000 module_end 0xb49f3000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f3000 module_end 0xb49f4000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f6000 module_end 0xb49f9000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f9000 module_end 0xb49fa000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fa000 module_end 0xb49fd000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49fd000 module_end 0xb49fe000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fe000 module_end 0xb4a01000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a01000 module_end 0xb4a02000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a02000 module_end 0xb4a15000, size 0x13000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace alloc space live-bitmap 4 module_base 0xb4a17000 module_end 0xb4b12000, size 0xfb000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space mark-bitmP module_base 0xb4b12000 module_end 0xb4c12000, size 0x100000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space live-bitm module_base 0xb4c12000 module_end 0xb4d12000, size 0x100000
-cr3: 2c794000, module loaded - libart.so module_base 0xb4d12000 module_end 0xb4ffe000, size 0x2ec000
-cr3: 2c794000, module loaded - libpowermanager.so module_base 0xb5201000 module_end 0xb5207000, size 0x6000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb5206000 module_end 0xb5207000, size 0x1000
-cr3: 2c794000, module loaded - Roboto-Light.ttf module_base 0xb5208000 module_end 0xb5244000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-ThinItalic.ttf module_base 0xb5244000 module_end 0xb5286000, size 0x42000
-cr3: 2c794000, module loaded - Roboto-Thin.ttf module_base 0xb5286000 module_end 0xb52c3000, size 0x3d000
-cr3: 2c794000, module loaded - system@framework@boot.oat module_base 0xb52c3000 module_end 0xb8229000, size 0x2f66000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb52c4000 module_end 0xb52c5000, size 0x1000
-cr3: 2c794000, module loaded - system@framework@boot.art module_base 0xb52c5000 module_end 0xb5de3000, size 0xb1e000
-cr3: 2c794000, module loaded - libbacktrace_libc++.so module_base 0xb52f2000 module_end 0xb52fc000, size 0xa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb52fc000 module_end 0xb52fd000, size 0x1000
-cr3: 2c794000, module loaded - __properties__ module_base 0xb52fd000 module_end 0xb531d000, size 0x20000
-cr3: 2c794000, module loaded - libusbhost.so module_base 0xb531d000 module_end 0xb5321000, size 0x4000
-cr3: 2c794000, module loaded - libssl.so module_base 0xb5321000 module_end 0xb5361000, size 0x40000
-cr3: 2c794000, module loaded - libsqlite.so module_base 0xb5361000 module_end 0xb53c1000, size 0x60000
-cr3: 2c794000, module loaded - libsoundtrigger.so module_base 0xb53c2000 module_end 0xb53d1000, size 0xf000
-cr3: 2c794000, module loaded - libselinux.so module_base 0xb53d1000 module_end 0xb53df000, size 0xe000
-cr3: 2c794000, module loaded - libprocessgroup.so module_base 0xb53df000 module_end 0xb53e3000, size 0x4000
-cr3: 2c794000, module loaded - libpdfium.so module_base 0xb53e3000 module_end 0xb5826000, size 0x443000
-cr3: 2c794000, module loaded - libnetd_client.so module_base 0xb582b000 module_end 0xb5830000, size 0x5000
-cr3: 2c794000, module loaded - libnativehelper.so module_base 0xb582f000 module_end 0xb5836000, size 0x7000
-cr3: 2c794000, module loaded - libnativebridge.so module_base 0xb5836000 module_end 0xb583a000, size 0x4000
-cr3: 2c794000, module loaded - libminikin.so module_base 0xb583a000 module_end 0xb5846000, size 0xc000
-cr3: 2c794000, module loaded - libmemtrack.so module_base 0xb5846000 module_end 0xb5849000, size 0x3000
-cr3: 2c794000, module loaded - libstagefright_foundation.so module_base 0xb5849000 module_end 0xb585e000, size 0x15000
-cr3: 2c794000, module loaded - libsonivox.so module_base 0xb585e000 module_end 0xb58af000, size 0x51000
-cr3: 2c794000, module loaded - libcommon_time_client.so module_base 0xb58b4000 module_end 0xb58c3000, size 0xf000
-cr3: 2c794000, module loaded - libnbaio.so module_base 0xb58c3000 module_end 0xb58cd000, size 0xa000
-cr3: 2c794000, module loaded - libmedia.so module_base 0xb58cd000 module_end 0xb5968000, size 0x9b000
-cr3: 2c794000, module loaded - libinputflinger.so module_base 0xb5968000 module_end 0xb59a4000, size 0x3c000
-cr3: 2c794000, module loaded - libinput.so module_base 0xb59a4000 module_end 0xb59bf000, size 0x1b000
-cr3: 2c794000, module loaded - libimg_utils.so module_base 0xb59bf000 module_end 0xb59ce000, size 0xf000
-cr3: 2c794000, module loaded - libjpeg.so module_base 0xb59cf000 module_end 0xb59fb000, size 0x2c000
-cr3: 2c794000, module loaded - libskia.so module_base 0xb59fb000 module_end 0xb5c1e000, size 0x223000
-cr3: 2c794000, module loaded - libRScpp.so module_base 0xb5c23000 module_end 0xb5c40000, size 0x1d000
-cr3: 2c794000, module loaded - libpng.so module_base 0xb5c40000 module_end 0xb5c68000, size 0x28000
-cr3: 2c794000, module loaded - libft2.so module_base 0xb5c68000 module_end 0xb5cc2000, size 0x5a000
-cr3: 2c794000, module loaded - libbcinfo.so module_base 0xb5cc2000 module_end 0xb5d0d000, size 0x4b000
-cr3: 2c794000, module loaded - libbcc.so module_base 0xb5d0d000 module_end 0xb5d33000, size 0x26000
-cr3: 2c794000, module loaded - libc++.so module_base 0xb5d53000 module_end 0xb5de8000, size 0x95000
-cr3: 2c794000, module loaded - libLLVM.so module_base 0xb5de8000 module_end 0xb6716000, size 0x92e000
-cr3: 2c794000, module loaded - libRS.so module_base 0xb671d000 module_end 0xb6757000, size 0x3a000
-cr3: 2c794000, module loaded - libhwui.so module_base 0xb6757000 module_end 0xb67a3000, size 0x4c000
-cr3: 2c794000, module loaded - libicuuc.so module_base 0xb67a3000 module_end 0xb68a5000, size 0x102000
-cr3: 2c794000, module loaded - libgabi++.so module_base 0xb68a9000 module_end 0xb68af000, size 0x6000
-cr3: 2c794000, module loaded - libicui18n.so module_base 0xb68af000 module_end 0xb6a06000, size 0x157000
-cr3: 2c794000, module loaded - libharfbuzz_ng.so module_base 0xb6a06000 module_end 0xb6a4e000, size 0x48000
-cr3: 2c794000, module loaded - libnetutils.so module_base 0xb6a4e000 module_end 0xb6a56000, size 0x8000
-cr3: 2c794000, module loaded - libhardware_legacy.so module_base 0xb6a55000 module_end 0xb6a5d000, size 0x8000
-cr3: 2c794000, module loaded - libexpat.so module_base 0xb6a5c000 module_end 0xb6a73000, size 0x17000
-cr3: 2c794000, module loaded - libcrypto.so module_base 0xb6a73000 module_end 0xb6b75000, size 0x102000
-cr3: 2c794000, module loaded - libhardware.so module_base 0xb6b77000 module_end 0xb6b7b000, size 0x4000
-cr3: 2c794000, module loaded - libui.so module_base 0xb6b7a000 module_end 0xb6b86000, size 0xc000
-cr3: 2c794000, module loaded - libsync.so module_base 0xb6b86000 module_end 0xb6b89000, size 0x3000
-cr3: 2c794000, module loaded - libgui.so module_base 0xb6b89000 module_end 0xb6bd8000, size 0x4f000
-cr3: 2c794000, module loaded - libcamera_metadata.so module_base 0xb6bd8000 module_end 0xb6be0000, size 0x8000
-cr3: 2c794000, module loaded - libcamera_client.so module_base 0xb6be0000 module_end 0xb6c1a000, size 0x3a000
-cr3: 2c794000, module loaded - libspeexresampler.so module_base 0xb6c1a000 module_end 0xb6c20000, size 0x6000
-cr3: 2c794000, module loaded - libaudioutils.so module_base 0xb6c20000 module_end 0xb6c26000, size 0x6000
-cr3: 2c794000, module loaded - libz.so module_base 0xb6c26000 module_end 0xb6c40000, size 0x1a000
-cr3: 2c794000, module loaded - libbinder.so module_base 0xb6c40000 module_end 0xb6c70000, size 0x30000
-cr3: 2c794000, module loaded - libandroidfw.so module_base 0xb6c70000 module_end 0xb6c98000, size 0x28000
-cr3: 2c794000, module loaded - libGLESv2.so module_base 0xb6c98000 module_end 0xb6ca3000, size 0xb000
-cr3: 2c794000, module loaded - libGLESv1_CM.so module_base 0xb6ca3000 module_end 0xb6caa000, size 0x7000
-cr3: 2c794000, module loaded - libETC1.so module_base 0xb6caa000 module_end 0xb6cae000, size 0x4000
-cr3: 2c794000, module loaded - libunwind-ptrace.so module_base 0xb6cae000 module_end 0xb6cb2000, size 0x4000
-cr3: 2c794000, module loaded - libunwind.so module_base 0xb6cb2000 module_end 0xb6cc0000, size 0xe000
-cr3: 2c794000, module loaded - libgccdemangle.so module_base 0xb6d06000 module_end 0xb6d0e000, size 0x8000
-cr3: 2c794000, module loaded - libbacktrace.so module_base 0xb6d0f000 module_end 0xb6d18000, size 0x9000
-cr3: 2c794000, module loaded - libutils.so module_base 0xb6d18000 module_end 0xb6d30000, size 0x18000
-cr3: 2c794000, module loaded - libstlport.so module_base 0xb6d30000 module_end 0xb6d6b000, size 0x3b000
-cr3: 2c794000, module loaded - libcutils.so module_base 0xb6d6b000 module_end 0xb6d79000, size 0xe000
-cr3: 2c794000, module loaded - libGLES_trace.so module_base 0xb6d79000 module_end 0xb6dea000, size 0x71000
-cr3: 2c794000, module loaded - libEGL.so module_base 0xb6de9000 module_end 0xb6e55000, size 0x6c000
-cr3: 2c794000, module loaded - libandroid_runtime.so module_base 0xb6e54000 module_end 0xb6f30000, size 0xdc000
-cr3: 2c794000, module loaded - libstdc++.so module_base 0xb6f30000 module_end 0xb6f34000, size 0x4000
-cr3: 2c794000, module loaded - libm.so module_base 0xb6f34000 module_end 0xb6f4e000, size 0x1a000
-cr3: 2c794000, module loaded - liblog.so module_base 0xb6f4e000 module_end 0xb6f55000, size 0x7000
-cr3: 2c794000, module loaded - libc.so module_base 0xb6f56000 module_end 0xb6fcc000, size 0x76000
-cr3: 2c794000, module loaded - libsigchain.so module_base 0xb6fcc000 module_end 0xb6fd0000, size 0x4000
-cr3: 2c794000, module loaded - linker module_base 0xb6fd3000 module_end 0xb6fe2000, size 0xf000
-cr3: 2c794000, module loaded - app_process32 module_base 0xb6fe3000 module_end 0xb6fe6000, size 0x3000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ad000 module_end 0xb49ae000, size 0x1000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49aa000 module_end 0xb49ad000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-main space module_base 0x12c00000 module_end 0x18c00000, size 0x6000000
-cr3: 2c794000, module loaded - system@framework@boot.art module_base 0x7fabd000 module_end 0x805db000, size 0xb1e000
-cr3: 2c794000, module loaded - system@framework@boot.oat module_base 0x805db000 module_end 0x83541000, size 0x2f66000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-non moving space module_base 0x83541000 module_end 0x87541000, size 0x4000000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-alloc space module_base 0x836a4000 module_end 0x87541000, size 0x3e9d000
-cr3: 2c794000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xa7544000 module_end 0xa754e000, size 0xa000
-cr3: 2c794000, module loaded - base.apk module_base 0xa7546000 module_end 0xa7578000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xa7578000 module_end 0xa757b000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xa757b000 module_end 0xa757c000, size 0x1000
-cr3: 2c794000, module loaded - framework-res.apk module_base 0xae18c000 module_end 0xaed75000, size 0xbe9000
-cr3: 2c794000, module loaded - tzdata module_base 0xaed75000 module_end 0xaee00000, size 0x8b000
-cr3: 2c794000, module loaded - libwebviewchromium_loader.so module_base 0xaef0d000 module_end 0xaef10000, size 0x3000
-cr3: 2c794000, module loaded - libjnigraphics.so module_base 0xaef10000 module_end 0xaef13000, size 0x3000
-cr3: 2c794000, module loaded - libcompiler_rt.so module_base 0xaef13000 module_end 0xaef1b000, size 0x8000
-cr3: 2c794000, module loaded - libandroid.so module_base 0xaef1b000 module_end 0xaef2b000, size 0x10000
-cr3: 2c794000, module loaded - libpixelflinger.so module_base 0xaef2b000 module_end 0xaef4e000, size 0x23000
-cr3: 2c794000, module loaded - libGLES_android.so module_base 0xaef4e000 module_end 0xaef64000, size 0x16000
-cr3: 2c794000, module loaded - libjavacrypto.so module_base 0xaef63000 module_end 0xaef7b000, size 0x18000
-cr3: 2c794000, module loaded - librs_jni.so module_base 0xaef7b000 module_end 0xaef84000, size 0x9000
-cr3: 2c794000, module loaded - libaudioeffect_jni.so module_base 0xaef84000 module_end 0xaef8a000, size 0x6000
-cr3: 2c794000, module loaded - libsoundpool.so module_base 0xaef8a000 module_end 0xaef8e000, size 0x4000
-cr3: 2c794000, module loaded - libstagefright_amrnb_common.so module_base 0xaef8e000 module_end 0xaef9c000, size 0xe000
-cr3: 2c794000, module loaded - libvorbisidec.so module_base 0xaef9c000 module_end 0xaefb7000, size 0x1b000
-cr3: 2c794000, module loaded - libstagefright_yuv.so module_base 0xaefb7000 module_end 0xaefbb000, size 0x4000
-cr3: 2c794000, module loaded - libstagefright_omx.so module_base 0xaefbb000 module_end 0xaefda000, size 0x1f000
-cr3: 2c794000, module loaded - libstagefright_avc_common.so module_base 0xaefda000 module_end 0xaefe1000, size 0x7000
-cr3: 2c794000, module loaded - libopus.so module_base 0xaefe1000 module_end 0xaf01b000, size 0x3a000
-cr3: 2c794000, module loaded - libdrmframework.so module_base 0xaf01b000 module_end 0xaf036000, size 0x1b000
-cr3: 2c794000, module loaded - libstagefright.so module_base 0xaf036000 module_end 0xaf149000, size 0x113000
-cr3: 2c794000, module loaded - libmtp.so module_base 0xaf149000 module_end 0xaf15f000, size 0x16000
-cr3: 2c794000, module loaded - libexif.so module_base 0xaf15f000 module_end 0xaf18b000, size 0x2c000
-cr3: 2c794000, module loaded - libmedia_jni.so module_base 0xaf18b000 module_end 0xaf1c7000, size 0x3c000
-cr3: 2c794000, module loaded - CarroisGothicSC-Regular.ttf module_base 0xaf1c7000 module_end 0xaf1d1000, size 0xa000
-cr3: 2c794000, module loaded - DancingScript-Bold.ttf module_base 0xaf1d1000 module_end 0xaf1ee000, size 0x1d000
-cr3: 2c794000, module loaded - DancingScript-Regular.ttf module_base 0xaf1ee000 module_end 0xaf20b000, size 0x1d000
-cr3: 2c794000, module loaded - ComingSoon.ttf module_base 0xaf20b000 module_end 0xaf21a000, size 0xf000
-cr3: 2c794000, module loaded - CutiveMono.ttf module_base 0xaf21a000 module_end 0xaf22b000, size 0x11000
-cr3: 2c794000, module loaded - DroidSansMono.ttf module_base 0xaf22b000 module_end 0xaf246000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSerif-BoldItalic.ttf module_base 0xaf246000 module_end 0xaf286000, size 0x40000
-cr3: 2c794000, module loaded - NotoSerif-Italic.ttf module_base 0xaf286000 module_end 0xaf2c3000, size 0x3d000
-cr3: 2c794000, module loaded - NotoSerif-Bold.ttf module_base 0xaf2c3000 module_end 0xaf300000, size 0x3d000
-cr3: 2c794000, module loaded - NotoSerif-Regular.ttf module_base 0xaf401000 module_end 0xaf43e000, size 0x3d000
-cr3: 2c794000, module loaded - RobotoCondensed-BoldItalic.ttf module_base 0xaf43e000 module_end 0xaf47e000, size 0x40000
-cr3: 2c794000, module loaded - RobotoCondensed-Bold.ttf module_base 0xaf47e000 module_end 0xaf4b9000, size 0x3b000
-cr3: 2c794000, module loaded - RobotoCondensed-Italic.ttf module_base 0xaf4b9000 module_end 0xaf4f9000, size 0x40000
-cr3: 2c794000, module loaded - RobotoCondensed-Regular.ttf module_base 0xaf4f9000 module_end 0xaf534000, size 0x3b000
-cr3: 2c794000, module loaded - RobotoCondensed-LightItalic.ttf module_base 0xaf534000 module_end 0xaf575000, size 0x41000
-cr3: 2c794000, module loaded - RobotoCondensed-Light.ttf module_base 0xaf575000 module_end 0xaf5b0000, size 0x3b000
-cr3: 2c794000, module loaded - MTLmr3m.ttf module_base 0xaf5b0000 module_end 0xaf821000, size 0x271000
-cr3: 2c794000, module loaded - DroidSansFallback.ttf module_base 0xaf821000 module_end 0xafbfa000, size 0x3d9000
-cr3: 2c794000, module loaded - NotoColorEmoji.ttf module_base 0xafbfa000 module_end 0xafd4d000, size 0x153000
-cr3: 2c794000, module loaded - NotoSansSymbols-Regular-Subsetted.ttf module_base 0xafd4d000 module_end 0xafd6e000, size 0x21000
-cr3: 2c794000, module loaded - NanumGothic.ttf module_base 0xafd6e000 module_end 0xafea9000, size 0x13b000
-cr3: 2c794000, module loaded - NotoSansMyanmarUI-Bold.ttf module_base 0xafea9000 module_end 0xafec1000, size 0x18000
-cr3: 2c794000, module loaded - NotoSansMyanmarUI-Regular.ttf module_base 0xafec1000 module_end 0xafed8000, size 0x17000
-cr3: 2c794000, module loaded - NotoSansMyanmar-Bold.ttf module_base 0xafed8000 module_end 0xafef2000, size 0x1a000
-cr3: 2c794000, module loaded - NotoSansMyanmar-Regular.ttf module_base 0xafef2000 module_end 0xaff0d000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansLaoUI-Bold.ttf module_base 0xaff0d000 module_end 0xaff15000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLaoUI-Regular.ttf module_base 0xaff15000 module_end 0xaff1d000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLao-Bold.ttf module_base 0xaff1d000 module_end 0xaff25000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLao-Regular.ttf module_base 0xaff25000 module_end 0xaff2d000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansKhmerUI-Bold.ttf module_base 0xaff2d000 module_end 0xaff36000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKhmerUI-Regular.ttf module_base 0xaff36000 module_end 0xaff40000, size 0xa000
-cr3: 2c794000, module loaded - NotoSansKhmer-Bold.ttf module_base 0xaff40000 module_end 0xaff49000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKhmer-Regular.ttf module_base 0xaff49000 module_end 0xaff52000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKannadaUI-Bold.ttf module_base 0xaff52000 module_end 0xaff66000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannadaUI-Regular.ttf module_base 0xaff66000 module_end 0xaff7a000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannada-Bold.ttf module_base 0xaff7a000 module_end 0xaff8e000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannada-Regular.ttf module_base 0xaff8e000 module_end 0xaffa2000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansTeluguUI-Bold.ttf module_base 0xaffa2000 module_end 0xaffbd000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansTeluguUI-Regular.ttf module_base 0xaffbd000 module_end 0xaffd9000, size 0x1c000
-cr3: 2c794000, module loaded - NotoSansTelugu-Bold.ttf module_base 0xaffd9000 module_end 0xafff4000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansTelugu-Regular.ttf module_base 0xafff4000 module_end 0xb000f000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansBengaliUI-Bold.ttf module_base 0xb000f000 module_end 0xb0029000, size 0x1a000
-cr3: 2c794000, module loaded - NotoSansBengaliUI-Regular.ttf module_base 0xb0029000 module_end 0xb0044000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansBengali-Bold.ttf module_base 0xb0044000 module_end 0xb005c000, size 0x18000
-cr3: 2c794000, module loaded - NotoSansBengali-Regular.ttf module_base 0xb005c000 module_end 0xb0075000, size 0x19000
-cr3: 2c794000, module loaded - NotoSansMalayalamUI-Bold.ttf module_base 0xb0075000 module_end 0xb0084000, size 0xf000
-cr3: 2c794000, module loaded - NotoSansMalayalamUI-Regular.ttf module_base 0xb0084000 module_end 0xb0093000, size 0xf000
-cr3: 2c794000, module loaded - NotoSansMalayalam-Bold.ttf module_base 0xb0093000 module_end 0xb00a1000, size 0xe000
-cr3: 2c794000, module loaded - NotoSansMalayalam-Regular.ttf module_base 0xb00a1000 module_end 0xb00af000, size 0xe000
-cr3: 2c794000, module loaded - NotoSansTamilUI-Bold.ttf module_base 0xb00af000 module_end 0xb00b8000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamilUI-Regular.ttf module_base 0xb00b8000 module_end 0xb00c1000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamil-Bold.ttf module_base 0xb00c1000 module_end 0xb00ca000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamil-Regular.ttf module_base 0xb00ca000 module_end 0xb00d3000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansDevanagariUI-Bold.ttf module_base 0xb00d3000 module_end 0xb00ef000, size 0x1c000
-cr3: 2c794000, module loaded - NotoSansDevanagariUI-Regular.ttf module_base 0xb00ef000 module_end 0xb010d000, size 0x1e000
-cr3: 2c794000, module loaded - NotoSansDevanagari-Bold.ttf module_base 0xb010d000 module_end 0xb012b000, size 0x1e000
-cr3: 2c794000, module loaded - NotoSansDevanagari-Regular.ttf module_base 0xb012b000 module_end 0xb014a000, size 0x1f000
-cr3: 2c794000, module loaded - NotoSansGeorgian-Bold.ttf module_base 0xb014a000 module_end 0xb014f000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansGeorgian-Regular.ttf module_base 0xb014f000 module_end 0xb0154000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansArmenian-Bold.ttf module_base 0xb0154000 module_end 0xb0158000, size 0x4000
-cr3: 2c794000, module loaded - NotoSansArmenian-Regular.ttf module_base 0xb0158000 module_end 0xb015c000, size 0x4000
-cr3: 2c794000, module loaded - NotoSansThaiUI-Bold.ttf module_base 0xb015c000 module_end 0xb0161000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansThaiUI-Regular.ttf module_base 0xb0161000 module_end 0xb0167000, size 0x6000
-cr3: 2c794000, module loaded - NotoSansThai-Bold.ttf module_base 0xb0167000 module_end 0xb016c000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansThai-Regular.ttf module_base 0xb016c000 module_end 0xb0172000, size 0x6000
-cr3: 2c794000, module loaded - NotoSansHebrew-Bold.ttf module_base 0xb0172000 module_end 0xb0177000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansHebrew-Regular.ttf module_base 0xb0177000 module_end 0xb017c000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansEthiopic-Bold.ttf module_base 0xb017c000 module_end 0xb019f000, size 0x23000
-cr3: 2c794000, module loaded - NotoSansEthiopic-Regular.ttf module_base 0xb019f000 module_end 0xb01c2000, size 0x23000
-cr3: 2c794000, module loaded - NotoNaskhUI-Bold.ttf module_base 0xb01c2000 module_end 0xb01de000, size 0x1c000
-cr3: 2c794000, module loaded - NotoNaskhUI-Regular.ttf module_base 0xb01de000 module_end 0xb01fb000, size 0x1d000
-cr3: 2c794000, module loaded - NotoNaskh-Bold.ttf module_base 0xb01fb000 module_end 0xb0217000, size 0x1c000
-cr3: 2c794000, module loaded - NotoNaskh-Regular.ttf module_base 0xb0217000 module_end 0xb0234000, size 0x1d000
-cr3: 2c794000, module loaded - Roboto-BoldItalic.ttf module_base 0xb0234000 module_end 0xb0275000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Bold.ttf module_base 0xb0275000 module_end 0xb02b1000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-BlackItalic.ttf module_base 0xb02b1000 module_end 0xb02f2000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Black.ttf module_base 0xb02f2000 module_end 0xb032e000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-MediumItalic.ttf module_base 0xb032e000 module_end 0xb036f000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Medium.ttf module_base 0xb036f000 module_end 0xb03aa000, size 0x3b000
-cr3: 2c794000, module loaded - Roboto-Italic.ttf module_base 0xb03aa000 module_end 0xb03eb000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Regular.ttf module_base 0xb03eb000 module_end 0xb0426000, size 0x3b000
-cr3: 2c794000, module loaded - icudt53l.dat module_base 0xb0426000 module_end 0xb1600000, size 0x11da000
-cr3: 2c794000, module loaded - libstagefright_enc_common.so module_base 0xb1700000 module_end 0xb1703000, size 0x3000
-cr3: 2c794000, module loaded - libjhead.so module_base 0xb1703000 module_end 0xb170e000, size 0xb000
-cr3: 2c794000, module loaded - Roboto-LightItalic.ttf module_base 0xb170f000 module_end 0xb1750000, size 0x41000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace alloc space mark-bitmap 4 module_base 0xb1a04000 module_end 0xb1aff000, size 0xfb000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space mark-bitmap 3 module_base 0xb1aff000 module_end 0xb1bbf000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space live-bitmap 3 module_base 0xb1bbf000 module_end 0xb1c7f000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-rosalloc page map module_base 0xb1c7f000 module_end 0xb1c82000, size 0x3000
-cr3: 2c794000, module loaded - icudt53l.dat module_base 0xb1c82000 module_end 0xb2e5c000, size 0x11da000
-cr3: 2c794000, module loaded - libjavacore.so module_base 0xb2e5c000 module_end 0xb2e95000, size 0x39000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2e95000 module_end 0xb2e98000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb2e98000 module_end 0xb2e99000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2e99000 module_end 0xb2f93000, size 0xfa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb2f93000 module_end 0xb2fc5000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2fc5000 module_end 0xb30bf000, size 0xfa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb30bf000 module_end 0xb30f1000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-mark sweep sweep array free buffer module_base 0xb30f1000 module_end 0xb30f7000, size 0x6000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-live stack module_base 0xb30f7000 module_end 0xb34f8000, size 0x401000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocation stack module_base 0xb34f8000 module_end 0xb38f9000, size 0x401000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-mark stack module_base 0xb38f9000 module_end 0xb3939000, size 0x40000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-card table module_base 0xb3939000 module_end 0xb47cc000, size 0xe93000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large marked objects module_base 0xb47cc000 module_end 0xb47ec000, size 0x20000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large live objects module_base 0xb47ec000 module_end 0xb480c000, size 0x20000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space 1 mark-bitmap 2 module_base 0xb480c000 module_end 0xb48cc000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space 1 live-bitmap 2ess32 module_base 0xb48cc000 module_end 0xb498c000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-rosalloc page map module_base 0xb498c000 module_end 0xb49e8000, size 0x5c000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49a5000 module_end 0xb49aa000, size 0x5000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49aa000 module_end 0xb49ad000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ad000 module_end 0xb49ae000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b0000 module_end 0xb49e1000, size 0x31000
-cr3: 2c794000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xb49e1000 module_end 0xb49eb000, size 0xa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ea000 module_end 0xb49ed000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ed000 module_end 0xb49ee000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f0000 module_end 0xb49f3000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f3000 module_end 0xb49f4000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f6000 module_end 0xb49f9000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f9000 module_end 0xb49fa000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fa000 module_end 0xb49fd000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49fd000 module_end 0xb49fe000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fe000 module_end 0xb4a01000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a01000 module_end 0xb4a02000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a02000 module_end 0xb4a15000, size 0x13000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace alloc space live-bitmap 4 module_base 0xb4a17000 module_end 0xb4b12000, size 0xfb000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space mark-bitmP module_base 0xb4b12000 module_end 0xb4c12000, size 0x100000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space live-bitm module_base 0xb4c12000 module_end 0xb4d12000, size 0x100000
-cr3: 2c794000, module loaded - libart.so module_base 0xb4d12000 module_end 0xb4ffe000, size 0x2ec000
-cr3: 2c794000, module loaded - libpowermanager.so module_base 0xb5201000 module_end 0xb5207000, size 0x6000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb5206000 module_end 0xb5207000, size 0x1000
-cr3: 2c794000, module loaded - Roboto-Light.ttf module_base 0xb5208000 module_end 0xb5244000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-ThinItalic.ttf module_base 0xb5244000 module_end 0xb5286000, size 0x42000
-cr3: 2c794000, module loaded - Roboto-Thin.ttf module_base 0xb5286000 module_end 0xb52c3000, size 0x3d000
-cr3: 2c794000, module loaded - system@framework@boot.oat module_base 0xb52c3000 module_end 0xb8229000, size 0x2f66000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb52c4000 module_end 0xb52c5000, size 0x1000
-cr3: 2c794000, module loaded - system@framework@boot.art module_base 0xb52c5000 module_end 0xb5de3000, size 0xb1e000
-cr3: 2c794000, module loaded - libbacktrace_libc++.so module_base 0xb52f2000 module_end 0xb52fc000, size 0xa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb52fc000 module_end 0xb52fd000, size 0x1000
-cr3: 2c794000, module loaded - __properties__ module_base 0xb52fd000 module_end 0xb531d000, size 0x20000
-cr3: 2c794000, module loaded - libusbhost.so module_base 0xb531d000 module_end 0xb5321000, size 0x4000
-cr3: 2c794000, module loaded - libssl.so module_base 0xb5321000 module_end 0xb5361000, size 0x40000
-cr3: 2c794000, module loaded - libsqlite.so module_base 0xb5361000 module_end 0xb53c1000, size 0x60000
-cr3: 2c794000, module loaded - libsoundtrigger.so module_base 0xb53c2000 module_end 0xb53d1000, size 0xf000
-cr3: 2c794000, module loaded - libselinux.so module_base 0xb53d1000 module_end 0xb53df000, size 0xe000
-cr3: 2c794000, module loaded - libprocessgroup.so module_base 0xb53df000 module_end 0xb53e3000, size 0x4000
-cr3: 2c794000, module loaded - libpdfium.so module_base 0xb53e3000 module_end 0xb5826000, size 0x443000
-cr3: 2c794000, module loaded - libnetd_client.so module_base 0xb582b000 module_end 0xb5830000, size 0x5000
-cr3: 2c794000, module loaded - libnativehelper.so module_base 0xb582f000 module_end 0xb5836000, size 0x7000
-cr3: 2c794000, module loaded - libnativebridge.so module_base 0xb5836000 module_end 0xb583a000, size 0x4000
-cr3: 2c794000, module loaded - libminikin.so module_base 0xb583a000 module_end 0xb5846000, size 0xc000
-cr3: 2c794000, module loaded - libmemtrack.so module_base 0xb5846000 module_end 0xb5849000, size 0x3000
-cr3: 2c794000, module loaded - libstagefright_foundation.so module_base 0xb5849000 module_end 0xb585e000, size 0x15000
-cr3: 2c794000, module loaded - libsonivox.so module_base 0xb585e000 module_end 0xb58af000, size 0x51000
-cr3: 2c794000, module loaded - libcommon_time_client.so module_base 0xb58b4000 module_end 0xb58c3000, size 0xf000
-cr3: 2c794000, module loaded - libnbaio.so module_base 0xb58c3000 module_end 0xb58cd000, size 0xa000
-cr3: 2c794000, module loaded - libmedia.so module_base 0xb58cd000 module_end 0xb5968000, size 0x9b000
-cr3: 2c794000, module loaded - libinputflinger.so module_base 0xb5968000 module_end 0xb59a4000, size 0x3c000
-cr3: 2c794000, module loaded - libinput.so module_base 0xb59a4000 module_end 0xb59bf000, size 0x1b000
-cr3: 2c794000, module loaded - libimg_utils.so module_base 0xb59bf000 module_end 0xb59ce000, size 0xf000
-cr3: 2c794000, module loaded - libjpeg.so module_base 0xb59cf000 module_end 0xb59fb000, size 0x2c000
-cr3: 2c794000, module loaded - libskia.so module_base 0xb59fb000 module_end 0xb5c1e000, size 0x223000
-cr3: 2c794000, module loaded - libRScpp.so module_base 0xb5c23000 module_end 0xb5c40000, size 0x1d000
-cr3: 2c794000, module loaded - libpng.so module_base 0xb5c40000 module_end 0xb5c68000, size 0x28000
-cr3: 2c794000, module loaded - libft2.so module_base 0xb5c68000 module_end 0xb5cc2000, size 0x5a000
-cr3: 2c794000, module loaded - libbcinfo.so module_base 0xb5cc2000 module_end 0xb5d0d000, size 0x4b000
-cr3: 2c794000, module loaded - libbcc.so module_base 0xb5d0d000 module_end 0xb5d33000, size 0x26000
-cr3: 2c794000, module loaded - libc++.so module_base 0xb5d53000 module_end 0xb5de8000, size 0x95000
-cr3: 2c794000, module loaded - libLLVM.so module_base 0xb5de8000 module_end 0xb6716000, size 0x92e000
-cr3: 2c794000, module loaded - libRS.so module_base 0xb671d000 module_end 0xb6757000, size 0x3a000
-cr3: 2c794000, module loaded - libhwui.so module_base 0xb6757000 module_end 0xb67a3000, size 0x4c000
-cr3: 2c794000, module loaded - libicuuc.so module_base 0xb67a3000 module_end 0xb68a5000, size 0x102000
-cr3: 2c794000, module loaded - libgabi++.so module_base 0xb68a9000 module_end 0xb68af000, size 0x6000
-cr3: 2c794000, module loaded - libicui18n.so module_base 0xb68af000 module_end 0xb6a06000, size 0x157000
-cr3: 2c794000, module loaded - libharfbuzz_ng.so module_base 0xb6a06000 module_end 0xb6a4e000, size 0x48000
-cr3: 2c794000, module loaded - libnetutils.so module_base 0xb6a4e000 module_end 0xb6a56000, size 0x8000
-cr3: 2c794000, module loaded - libhardware_legacy.so module_base 0xb6a55000 module_end 0xb6a5d000, size 0x8000
-cr3: 2c794000, module loaded - libexpat.so module_base 0xb6a5c000 module_end 0xb6a73000, size 0x17000
-cr3: 2c794000, module loaded - libcrypto.so module_base 0xb6a73000 module_end 0xb6b75000, size 0x102000
-cr3: 2c794000, module loaded - libhardware.so module_base 0xb6b77000 module_end 0xb6b7b000, size 0x4000
-cr3: 2c794000, module loaded - libui.so module_base 0xb6b7a000 module_end 0xb6b86000, size 0xc000
-cr3: 2c794000, module loaded - libsync.so module_base 0xb6b86000 module_end 0xb6b89000, size 0x3000
-cr3: 2c794000, module loaded - libgui.so module_base 0xb6b89000 module_end 0xb6bd8000, size 0x4f000
-cr3: 2c794000, module loaded - libcamera_metadata.so module_base 0xb6bd8000 module_end 0xb6be0000, size 0x8000
-cr3: 2c794000, module loaded - libcamera_client.so module_base 0xb6be0000 module_end 0xb6c1a000, size 0x3a000
-cr3: 2c794000, module loaded - libspeexresampler.so module_base 0xb6c1a000 module_end 0xb6c20000, size 0x6000
-cr3: 2c794000, module loaded - libaudioutils.so module_base 0xb6c20000 module_end 0xb6c26000, size 0x6000
-cr3: 2c794000, module loaded - libz.so module_base 0xb6c26000 module_end 0xb6c40000, size 0x1a000
-cr3: 2c794000, module loaded - libbinder.so module_base 0xb6c40000 module_end 0xb6c70000, size 0x30000
-cr3: 2c794000, module loaded - libandroidfw.so module_base 0xb6c70000 module_end 0xb6c98000, size 0x28000
-cr3: 2c794000, module loaded - libGLESv2.so module_base 0xb6c98000 module_end 0xb6ca3000, size 0xb000
-cr3: 2c794000, module loaded - libGLESv1_CM.so module_base 0xb6ca3000 module_end 0xb6caa000, size 0x7000
-cr3: 2c794000, module loaded - libETC1.so module_base 0xb6caa000 module_end 0xb6cae000, size 0x4000
-cr3: 2c794000, module loaded - libunwind-ptrace.so module_base 0xb6cae000 module_end 0xb6cb2000, size 0x4000
-cr3: 2c794000, module loaded - libunwind.so module_base 0xb6cb2000 module_end 0xb6cc0000, size 0xe000
-cr3: 2c794000, module loaded - libgccdemangle.so module_base 0xb6d06000 module_end 0xb6d0e000, size 0x8000
-cr3: 2c794000, module loaded - libbacktrace.so module_base 0xb6d0f000 module_end 0xb6d18000, size 0x9000
-cr3: 2c794000, module loaded - libutils.so module_base 0xb6d18000 module_end 0xb6d30000, size 0x18000
-cr3: 2c794000, module loaded - libstlport.so module_base 0xb6d30000 module_end 0xb6d6b000, size 0x3b000
-cr3: 2c794000, module loaded - libcutils.so module_base 0xb6d6b000 module_end 0xb6d79000, size 0xe000
-cr3: 2c794000, module loaded - libGLES_trace.so module_base 0xb6d79000 module_end 0xb6dea000, size 0x71000
-cr3: 2c794000, module loaded - libEGL.so module_base 0xb6de9000 module_end 0xb6e55000, size 0x6c000
-cr3: 2c794000, module loaded - libandroid_runtime.so module_base 0xb6e54000 module_end 0xb6f30000, size 0xdc000
-cr3: 2c794000, module loaded - libstdc++.so module_base 0xb6f30000 module_end 0xb6f34000, size 0x4000
-cr3: 2c794000, module loaded - libm.so module_base 0xb6f34000 module_end 0xb6f4e000, size 0x1a000
-cr3: 2c794000, module loaded - liblog.so module_base 0xb6f4e000 module_end 0xb6f55000, size 0x7000
-cr3: 2c794000, module loaded - libc.so module_base 0xb6f56000 module_end 0xb6fcc000, size 0x76000
-cr3: 2c794000, module loaded - libsigchain.so module_base 0xb6fcc000 module_end 0xb6fd0000, size 0x4000
-cr3: 2c794000, module loaded - linker module_base 0xb6fd3000 module_end 0xb6fe2000, size 0xf000
-cr3: 2c794000, module loaded - app_process32 module_base 0xb6fe3000 module_end 0xb6fe6000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-main space module_base 0x12c00000 module_end 0x18c00000, size 0x6000000
-cr3: 2c794000, module loaded - system@framework@boot.art module_base 0x7fabd000 module_end 0x805db000, size 0xb1e000
-cr3: 2c794000, module loaded - system@framework@boot.oat module_base 0x805db000 module_end 0x83541000, size 0x2f66000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-non moving space module_base 0x83541000 module_end 0x87541000, size 0x4000000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-alloc space module_base 0x836a4000 module_end 0x87541000, size 0x3e9d000
-cr3: 2c794000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xa7544000 module_end 0xa754e000, size 0xa000
-cr3: 2c794000, module loaded - base.apk module_base 0xa7546000 module_end 0xa7578000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xa7578000 module_end 0xa757b000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xa757b000 module_end 0xa757c000, size 0x1000
-cr3: 2c794000, module loaded - framework-res.apk module_base 0xae18c000 module_end 0xaed75000, size 0xbe9000
-cr3: 2c794000, module loaded - tzdata module_base 0xaed75000 module_end 0xaee00000, size 0x8b000
-cr3: 2c794000, module loaded - libwebviewchromium_loader.so module_base 0xaef0d000 module_end 0xaef10000, size 0x3000
-cr3: 2c794000, module loaded - libjnigraphics.so module_base 0xaef10000 module_end 0xaef13000, size 0x3000
-cr3: 2c794000, module loaded - libcompiler_rt.so module_base 0xaef13000 module_end 0xaef1b000, size 0x8000
-cr3: 2c794000, module loaded - libandroid.so module_base 0xaef1b000 module_end 0xaef2b000, size 0x10000
-cr3: 2c794000, module loaded - libpixelflinger.so module_base 0xaef2b000 module_end 0xaef4e000, size 0x23000
-cr3: 2c794000, module loaded - libGLES_android.so module_base 0xaef4e000 module_end 0xaef64000, size 0x16000
-cr3: 2c794000, module loaded - libjavacrypto.so module_base 0xaef63000 module_end 0xaef7b000, size 0x18000
-cr3: 2c794000, module loaded - librs_jni.so module_base 0xaef7b000 module_end 0xaef84000, size 0x9000
-cr3: 2c794000, module loaded - libaudioeffect_jni.so module_base 0xaef84000 module_end 0xaef8a000, size 0x6000
-cr3: 2c794000, module loaded - libsoundpool.so module_base 0xaef8a000 module_end 0xaef8e000, size 0x4000
-cr3: 2c794000, module loaded - libstagefright_amrnb_common.so module_base 0xaef8e000 module_end 0xaef9c000, size 0xe000
-cr3: 2c794000, module loaded - libvorbisidec.so module_base 0xaef9c000 module_end 0xaefb7000, size 0x1b000
-cr3: 2c794000, module loaded - libstagefright_yuv.so module_base 0xaefb7000 module_end 0xaefbb000, size 0x4000
-cr3: 2c794000, module loaded - libstagefright_omx.so module_base 0xaefbb000 module_end 0xaefda000, size 0x1f000
-cr3: 2c794000, module loaded - libstagefright_avc_common.so module_base 0xaefda000 module_end 0xaefe1000, size 0x7000
-cr3: 2c794000, module loaded - libopus.so module_base 0xaefe1000 module_end 0xaf01b000, size 0x3a000
-cr3: 2c794000, module loaded - libdrmframework.so module_base 0xaf01b000 module_end 0xaf036000, size 0x1b000
-cr3: 2c794000, module loaded - libstagefright.so module_base 0xaf036000 module_end 0xaf149000, size 0x113000
-cr3: 2c794000, module loaded - libmtp.so module_base 0xaf149000 module_end 0xaf15f000, size 0x16000
-cr3: 2c794000, module loaded - libexif.so module_base 0xaf15f000 module_end 0xaf18b000, size 0x2c000
-cr3: 2c794000, module loaded - libmedia_jni.so module_base 0xaf18b000 module_end 0xaf1c7000, size 0x3c000
-cr3: 2c794000, module loaded - CarroisGothicSC-Regular.ttf module_base 0xaf1c7000 module_end 0xaf1d1000, size 0xa000
-cr3: 2c794000, module loaded - DancingScript-Bold.ttf module_base 0xaf1d1000 module_end 0xaf1ee000, size 0x1d000
-cr3: 2c794000, module loaded - DancingScript-Regular.ttf module_base 0xaf1ee000 module_end 0xaf20b000, size 0x1d000
-cr3: 2c794000, module loaded - ComingSoon.ttf module_base 0xaf20b000 module_end 0xaf21a000, size 0xf000
-cr3: 2c794000, module loaded - CutiveMono.ttf module_base 0xaf21a000 module_end 0xaf22b000, size 0x11000
-cr3: 2c794000, module loaded - DroidSansMono.ttf module_base 0xaf22b000 module_end 0xaf246000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSerif-BoldItalic.ttf module_base 0xaf246000 module_end 0xaf286000, size 0x40000
-cr3: 2c794000, module loaded - NotoSerif-Italic.ttf module_base 0xaf286000 module_end 0xaf2c3000, size 0x3d000
-cr3: 2c794000, module loaded - NotoSerif-Bold.ttf module_base 0xaf2c3000 module_end 0xaf300000, size 0x3d000
-cr3: 2c794000, module loaded - NotoSerif-Regular.ttf module_base 0xaf401000 module_end 0xaf43e000, size 0x3d000
-cr3: 2c794000, module loaded - RobotoCondensed-BoldItalic.ttf module_base 0xaf43e000 module_end 0xaf47e000, size 0x40000
-cr3: 2c794000, module loaded - RobotoCondensed-Bold.ttf module_base 0xaf47e000 module_end 0xaf4b9000, size 0x3b000
-cr3: 2c794000, module loaded - RobotoCondensed-Italic.ttf module_base 0xaf4b9000 module_end 0xaf4f9000, size 0x40000
-cr3: 2c794000, module loaded - RobotoCondensed-Regular.ttf module_base 0xaf4f9000 module_end 0xaf534000, size 0x3b000
-cr3: 2c794000, module loaded - RobotoCondensed-LightItalic.ttf module_base 0xaf534000 module_end 0xaf575000, size 0x41000
-cr3: 2c794000, module loaded - RobotoCondensed-Light.ttf module_base 0xaf575000 module_end 0xaf5b0000, size 0x3b000
-cr3: 2c794000, module loaded - MTLmr3m.ttf module_base 0xaf5b0000 module_end 0xaf821000, size 0x271000
-cr3: 2c794000, module loaded - DroidSansFallback.ttf module_base 0xaf821000 module_end 0xafbfa000, size 0x3d9000
-cr3: 2c794000, module loaded - NotoColorEmoji.ttf module_base 0xafbfa000 module_end 0xafd4d000, size 0x153000
-cr3: 2c794000, module loaded - NotoSansSymbols-Regular-Subsetted.ttf module_base 0xafd4d000 module_end 0xafd6e000, size 0x21000
-cr3: 2c794000, module loaded - NanumGothic.ttf module_base 0xafd6e000 module_end 0xafea9000, size 0x13b000
-cr3: 2c794000, module loaded - NotoSansMyanmarUI-Bold.ttf module_base 0xafea9000 module_end 0xafec1000, size 0x18000
-cr3: 2c794000, module loaded - NotoSansMyanmarUI-Regular.ttf module_base 0xafec1000 module_end 0xafed8000, size 0x17000
-cr3: 2c794000, module loaded - NotoSansMyanmar-Bold.ttf module_base 0xafed8000 module_end 0xafef2000, size 0x1a000
-cr3: 2c794000, module loaded - NotoSansMyanmar-Regular.ttf module_base 0xafef2000 module_end 0xaff0d000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansLaoUI-Bold.ttf module_base 0xaff0d000 module_end 0xaff15000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLaoUI-Regular.ttf module_base 0xaff15000 module_end 0xaff1d000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLao-Bold.ttf module_base 0xaff1d000 module_end 0xaff25000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLao-Regular.ttf module_base 0xaff25000 module_end 0xaff2d000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansKhmerUI-Bold.ttf module_base 0xaff2d000 module_end 0xaff36000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKhmerUI-Regular.ttf module_base 0xaff36000 module_end 0xaff40000, size 0xa000
-cr3: 2c794000, module loaded - NotoSansKhmer-Bold.ttf module_base 0xaff40000 module_end 0xaff49000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKhmer-Regular.ttf module_base 0xaff49000 module_end 0xaff52000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKannadaUI-Bold.ttf module_base 0xaff52000 module_end 0xaff66000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannadaUI-Regular.ttf module_base 0xaff66000 module_end 0xaff7a000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannada-Bold.ttf module_base 0xaff7a000 module_end 0xaff8e000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannada-Regular.ttf module_base 0xaff8e000 module_end 0xaffa2000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansTeluguUI-Bold.ttf module_base 0xaffa2000 module_end 0xaffbd000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansTeluguUI-Regular.ttf module_base 0xaffbd000 module_end 0xaffd9000, size 0x1c000
-cr3: 2c794000, module loaded - NotoSansTelugu-Bold.ttf module_base 0xaffd9000 module_end 0xafff4000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansTelugu-Regular.ttf module_base 0xafff4000 module_end 0xb000f000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansBengaliUI-Bold.ttf module_base 0xb000f000 module_end 0xb0029000, size 0x1a000
-cr3: 2c794000, module loaded - NotoSansBengaliUI-Regular.ttf module_base 0xb0029000 module_end 0xb0044000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansBengali-Bold.ttf module_base 0xb0044000 module_end 0xb005c000, size 0x18000
-cr3: 2c794000, module loaded - NotoSansBengali-Regular.ttf module_base 0xb005c000 module_end 0xb0075000, size 0x19000
-cr3: 2c794000, module loaded - NotoSansMalayalamUI-Bold.ttf module_base 0xb0075000 module_end 0xb0084000, size 0xf000
-cr3: 2c794000, module loaded - NotoSansMalayalamUI-Regular.ttf module_base 0xb0084000 module_end 0xb0093000, size 0xf000
-cr3: 2c794000, module loaded - NotoSansMalayalam-Bold.ttf module_base 0xb0093000 module_end 0xb00a1000, size 0xe000
-cr3: 2c794000, module loaded - NotoSansMalayalam-Regular.ttf module_base 0xb00a1000 module_end 0xb00af000, size 0xe000
-cr3: 2c794000, module loaded - NotoSansTamilUI-Bold.ttf module_base 0xb00af000 module_end 0xb00b8000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamilUI-Regular.ttf module_base 0xb00b8000 module_end 0xb00c1000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamil-Bold.ttf module_base 0xb00c1000 module_end 0xb00ca000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamil-Regular.ttf module_base 0xb00ca000 module_end 0xb00d3000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansDevanagariUI-Bold.ttf module_base 0xb00d3000 module_end 0xb00ef000, size 0x1c000
-cr3: 2c794000, module loaded - NotoSansDevanagariUI-Regular.ttf module_base 0xb00ef000 module_end 0xb010d000, size 0x1e000
-cr3: 2c794000, module loaded - NotoSansDevanagari-Bold.ttf module_base 0xb010d000 module_end 0xb012b000, size 0x1e000
-cr3: 2c794000, module loaded - NotoSansDevanagari-Regular.ttf module_base 0xb012b000 module_end 0xb014a000, size 0x1f000
-cr3: 2c794000, module loaded - NotoSansGeorgian-Bold.ttf module_base 0xb014a000 module_end 0xb014f000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansGeorgian-Regular.ttf module_base 0xb014f000 module_end 0xb0154000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansArmenian-Bold.ttf module_base 0xb0154000 module_end 0xb0158000, size 0x4000
-cr3: 2c794000, module loaded - NotoSansArmenian-Regular.ttf module_base 0xb0158000 module_end 0xb015c000, size 0x4000
-cr3: 2c794000, module loaded - NotoSansThaiUI-Bold.ttf module_base 0xb015c000 module_end 0xb0161000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansThaiUI-Regular.ttf module_base 0xb0161000 module_end 0xb0167000, size 0x6000
-cr3: 2c794000, module loaded - NotoSansThai-Bold.ttf module_base 0xb0167000 module_end 0xb016c000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansThai-Regular.ttf module_base 0xb016c000 module_end 0xb0172000, size 0x6000
-cr3: 2c794000, module loaded - NotoSansHebrew-Bold.ttf module_base 0xb0172000 module_end 0xb0177000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansHebrew-Regular.ttf module_base 0xb0177000 module_end 0xb017c000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansEthiopic-Bold.ttf module_base 0xb017c000 module_end 0xb019f000, size 0x23000
-cr3: 2c794000, module loaded - NotoSansEthiopic-Regular.ttf module_base 0xb019f000 module_end 0xb01c2000, size 0x23000
-cr3: 2c794000, module loaded - NotoNaskhUI-Bold.ttf module_base 0xb01c2000 module_end 0xb01de000, size 0x1c000
-cr3: 2c794000, module loaded - NotoNaskhUI-Regular.ttf module_base 0xb01de000 module_end 0xb01fb000, size 0x1d000
-cr3: 2c794000, module loaded - NotoNaskh-Bold.ttf module_base 0xb01fb000 module_end 0xb0217000, size 0x1c000
-cr3: 2c794000, module loaded - NotoNaskh-Regular.ttf module_base 0xb0217000 module_end 0xb0234000, size 0x1d000
-cr3: 2c794000, module loaded - Roboto-BoldItalic.ttf module_base 0xb0234000 module_end 0xb0275000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Bold.ttf module_base 0xb0275000 module_end 0xb02b1000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-BlackItalic.ttf module_base 0xb02b1000 module_end 0xb02f2000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Black.ttf module_base 0xb02f2000 module_end 0xb032e000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-MediumItalic.ttf module_base 0xb032e000 module_end 0xb036f000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Medium.ttf module_base 0xb036f000 module_end 0xb03aa000, size 0x3b000
-cr3: 2c794000, module loaded - Roboto-Italic.ttf module_base 0xb03aa000 module_end 0xb03eb000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Regular.ttf module_base 0xb03eb000 module_end 0xb0426000, size 0x3b000
-cr3: 2c794000, module loaded - icudt53l.dat module_base 0xb0426000 module_end 0xb1600000, size 0x11da000
-cr3: 2c794000, module loaded - libstagefright_enc_common.so module_base 0xb1700000 module_end 0xb1703000, size 0x3000
-cr3: 2c794000, module loaded - libjhead.so module_base 0xb1703000 module_end 0xb170e000, size 0xb000
-cr3: 2c794000, module loaded - Roboto-LightItalic.ttf module_base 0xb170f000 module_end 0xb1750000, size 0x41000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace alloc space mark-bitmap 4 module_base 0xb1a04000 module_end 0xb1aff000, size 0xfb000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space mark-bitmap 3 module_base 0xb1aff000 module_end 0xb1bbf000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space live-bitmap 3 module_base 0xb1bbf000 module_end 0xb1c7f000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-rosalloc page map module_base 0xb1c7f000 module_end 0xb1c82000, size 0x3000
-cr3: 2c794000, module loaded - icudt53l.dat module_base 0xb1c82000 module_end 0xb2e5c000, size 0x11da000
-cr3: 2c794000, module loaded - libjavacore.so module_base 0xb2e5c000 module_end 0xb2e95000, size 0x39000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2e95000 module_end 0xb2e98000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb2e98000 module_end 0xb2e99000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2e99000 module_end 0xb2f93000, size 0xfa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb2f93000 module_end 0xb2fc5000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2fc5000 module_end 0xb30bf000, size 0xfa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb30bf000 module_end 0xb30f1000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-mark sweep sweep array free buffer module_base 0xb30f1000 module_end 0xb30f7000, size 0x6000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-live stack module_base 0xb30f7000 module_end 0xb34f8000, size 0x401000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocation stack module_base 0xb34f8000 module_end 0xb38f9000, size 0x401000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-mark stack module_base 0xb38f9000 module_end 0xb3939000, size 0x40000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-card table module_base 0xb3939000 module_end 0xb47cc000, size 0xe93000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large marked objects module_base 0xb47cc000 module_end 0xb47ec000, size 0x20000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large live objects module_base 0xb47ec000 module_end 0xb480c000, size 0x20000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space 1 mark-bitmap 2 module_base 0xb480c000 module_end 0xb48cc000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space 1 live-bitmap 2ess32 module_base 0xb48cc000 module_end 0xb498c000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-rosalloc page map module_base 0xb498c000 module_end 0xb49e8000, size 0x5c000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49a5000 module_end 0xb49aa000, size 0x5000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49aa000 module_end 0xb49ad000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ad000 module_end 0xb49ae000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b0000 module_end 0xb49e1000, size 0x31000
-cr3: 2c794000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xb49e1000 module_end 0xb49eb000, size 0xa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ea000 module_end 0xb49ed000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ed000 module_end 0xb49ee000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f0000 module_end 0xb49f3000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f3000 module_end 0xb49f4000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f6000 module_end 0xb49f9000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f9000 module_end 0xb49fa000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fa000 module_end 0xb49fd000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49fd000 module_end 0xb49fe000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fe000 module_end 0xb4a01000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a01000 module_end 0xb4a02000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a02000 module_end 0xb4a15000, size 0x13000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace alloc space live-bitmap 4 module_base 0xb4a17000 module_end 0xb4b12000, size 0xfb000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space mark-bitmP module_base 0xb4b12000 module_end 0xb4c12000, size 0x100000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space live-bitm module_base 0xb4c12000 module_end 0xb4d12000, size 0x100000
-cr3: 2c794000, module loaded - libart.so module_base 0xb4d12000 module_end 0xb4ffe000, size 0x2ec000
-cr3: 2c794000, module loaded - libpowermanager.so module_base 0xb5201000 module_end 0xb5207000, size 0x6000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb5206000 module_end 0xb5207000, size 0x1000
-cr3: 2c794000, module loaded - Roboto-Light.ttf module_base 0xb5208000 module_end 0xb5244000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-ThinItalic.ttf module_base 0xb5244000 module_end 0xb5286000, size 0x42000
-cr3: 2c794000, module loaded - Roboto-Thin.ttf module_base 0xb5286000 module_end 0xb52c3000, size 0x3d000
-cr3: 2c794000, module loaded - system@framework@boot.oat module_base 0xb52c3000 module_end 0xb8229000, size 0x2f66000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb52c4000 module_end 0xb52c5000, size 0x1000
-cr3: 2c794000, module loaded - system@framework@boot.art module_base 0xb52c5000 module_end 0xb5de3000, size 0xb1e000
-cr3: 2c794000, module loaded - libbacktrace_libc++.so module_base 0xb52f2000 module_end 0xb52fc000, size 0xa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb52fc000 module_end 0xb52fd000, size 0x1000
-cr3: 2c794000, module loaded - __properties__ module_base 0xb52fd000 module_end 0xb531d000, size 0x20000
-cr3: 2c794000, module loaded - libusbhost.so module_base 0xb531d000 module_end 0xb5321000, size 0x4000
-cr3: 2c794000, module loaded - libssl.so module_base 0xb5321000 module_end 0xb5361000, size 0x40000
-cr3: 2c794000, module loaded - libsqlite.so module_base 0xb5361000 module_end 0xb53c1000, size 0x60000
-cr3: 2c794000, module loaded - libsoundtrigger.so module_base 0xb53c2000 module_end 0xb53d1000, size 0xf000
-cr3: 2c794000, module loaded - libselinux.so module_base 0xb53d1000 module_end 0xb53df000, size 0xe000
-cr3: 2c794000, module loaded - libprocessgroup.so module_base 0xb53df000 module_end 0xb53e3000, size 0x4000
-cr3: 2c794000, module loaded - libpdfium.so module_base 0xb53e3000 module_end 0xb5826000, size 0x443000
-cr3: 2c794000, module loaded - libnetd_client.so module_base 0xb582b000 module_end 0xb5830000, size 0x5000
-cr3: 2c794000, module loaded - libnativehelper.so module_base 0xb582f000 module_end 0xb5836000, size 0x7000
-cr3: 2c794000, module loaded - libnativebridge.so module_base 0xb5836000 module_end 0xb583a000, size 0x4000
-cr3: 2c794000, module loaded - libminikin.so module_base 0xb583a000 module_end 0xb5846000, size 0xc000
-cr3: 2c794000, module loaded - libmemtrack.so module_base 0xb5846000 module_end 0xb5849000, size 0x3000
-cr3: 2c794000, module loaded - libstagefright_foundation.so module_base 0xb5849000 module_end 0xb585e000, size 0x15000
-cr3: 2c794000, module loaded - libsonivox.so module_base 0xb585e000 module_end 0xb58af000, size 0x51000
-cr3: 2c794000, module loaded - libcommon_time_client.so module_base 0xb58b4000 module_end 0xb58c3000, size 0xf000
-cr3: 2c794000, module loaded - libnbaio.so module_base 0xb58c3000 module_end 0xb58cd000, size 0xa000
-cr3: 2c794000, module loaded - libmedia.so module_base 0xb58cd000 module_end 0xb5968000, size 0x9b000
-cr3: 2c794000, module loaded - libinputflinger.so module_base 0xb5968000 module_end 0xb59a4000, size 0x3c000
-cr3: 2c794000, module loaded - libinput.so module_base 0xb59a4000 module_end 0xb59bf000, size 0x1b000
-cr3: 2c794000, module loaded - libimg_utils.so module_base 0xb59bf000 module_end 0xb59ce000, size 0xf000
-cr3: 2c794000, module loaded - libjpeg.so module_base 0xb59cf000 module_end 0xb59fb000, size 0x2c000
-cr3: 2c794000, module loaded - libskia.so module_base 0xb59fb000 module_end 0xb5c1e000, size 0x223000
-cr3: 2c794000, module loaded - libRScpp.so module_base 0xb5c23000 module_end 0xb5c40000, size 0x1d000
-cr3: 2c794000, module loaded - libpng.so module_base 0xb5c40000 module_end 0xb5c68000, size 0x28000
-cr3: 2c794000, module loaded - libft2.so module_base 0xb5c68000 module_end 0xb5cc2000, size 0x5a000
-cr3: 2c794000, module loaded - libbcinfo.so module_base 0xb5cc2000 module_end 0xb5d0d000, size 0x4b000
-cr3: 2c794000, module loaded - libbcc.so module_base 0xb5d0d000 module_end 0xb5d33000, size 0x26000
-cr3: 2c794000, module loaded - libc++.so module_base 0xb5d53000 module_end 0xb5de8000, size 0x95000
-cr3: 2c794000, module loaded - libLLVM.so module_base 0xb5de8000 module_end 0xb6716000, size 0x92e000
-cr3: 2c794000, module loaded - libRS.so module_base 0xb671d000 module_end 0xb6757000, size 0x3a000
-cr3: 2c794000, module loaded - libhwui.so module_base 0xb6757000 module_end 0xb67a3000, size 0x4c000
-cr3: 2c794000, module loaded - libicuuc.so module_base 0xb67a3000 module_end 0xb68a5000, size 0x102000
-cr3: 2c794000, module loaded - libgabi++.so module_base 0xb68a9000 module_end 0xb68af000, size 0x6000
-cr3: 2c794000, module loaded - libicui18n.so module_base 0xb68af000 module_end 0xb6a06000, size 0x157000
-cr3: 2c794000, module loaded - libharfbuzz_ng.so module_base 0xb6a06000 module_end 0xb6a4e000, size 0x48000
-cr3: 2c794000, module loaded - libnetutils.so module_base 0xb6a4e000 module_end 0xb6a56000, size 0x8000
-cr3: 2c794000, module loaded - libhardware_legacy.so module_base 0xb6a55000 module_end 0xb6a5d000, size 0x8000
-cr3: 2c794000, module loaded - libexpat.so module_base 0xb6a5c000 module_end 0xb6a73000, size 0x17000
-cr3: 2c794000, module loaded - libcrypto.so module_base 0xb6a73000 module_end 0xb6b75000, size 0x102000
-cr3: 2c794000, module loaded - libhardware.so module_base 0xb6b77000 module_end 0xb6b7b000, size 0x4000
-cr3: 2c794000, module loaded - libui.so module_base 0xb6b7a000 module_end 0xb6b86000, size 0xc000
-cr3: 2c794000, module loaded - libsync.so module_base 0xb6b86000 module_end 0xb6b89000, size 0x3000
-cr3: 2c794000, module loaded - libgui.so module_base 0xb6b89000 module_end 0xb6bd8000, size 0x4f000
-cr3: 2c794000, module loaded - libcamera_metadata.so module_base 0xb6bd8000 module_end 0xb6be0000, size 0x8000
-cr3: 2c794000, module loaded - libcamera_client.so module_base 0xb6be0000 module_end 0xb6c1a000, size 0x3a000
-cr3: 2c794000, module loaded - libspeexresampler.so module_base 0xb6c1a000 module_end 0xb6c20000, size 0x6000
-cr3: 2c794000, module loaded - libaudioutils.so module_base 0xb6c20000 module_end 0xb6c26000, size 0x6000
-cr3: 2c794000, module loaded - libz.so module_base 0xb6c26000 module_end 0xb6c40000, size 0x1a000
-cr3: 2c794000, module loaded - libbinder.so module_base 0xb6c40000 module_end 0xb6c70000, size 0x30000
-cr3: 2c794000, module loaded - libandroidfw.so module_base 0xb6c70000 module_end 0xb6c98000, size 0x28000
-cr3: 2c794000, module loaded - libGLESv2.so module_base 0xb6c98000 module_end 0xb6ca3000, size 0xb000
-cr3: 2c794000, module loaded - libGLESv1_CM.so module_base 0xb6ca3000 module_end 0xb6caa000, size 0x7000
-cr3: 2c794000, module loaded - libETC1.so module_base 0xb6caa000 module_end 0xb6cae000, size 0x4000
-cr3: 2c794000, module loaded - libunwind-ptrace.so module_base 0xb6cae000 module_end 0xb6cb2000, size 0x4000
-cr3: 2c794000, module loaded - libunwind.so module_base 0xb6cb2000 module_end 0xb6cc0000, size 0xe000
-cr3: 2c794000, module loaded - libgccdemangle.so module_base 0xb6d06000 module_end 0xb6d0e000, size 0x8000
-cr3: 2c794000, module loaded - libbacktrace.so module_base 0xb6d0f000 module_end 0xb6d18000, size 0x9000
-cr3: 2c794000, module loaded - libutils.so module_base 0xb6d18000 module_end 0xb6d30000, size 0x18000
-cr3: 2c794000, module loaded - libstlport.so module_base 0xb6d30000 module_end 0xb6d6b000, size 0x3b000
-cr3: 2c794000, module loaded - libcutils.so module_base 0xb6d6b000 module_end 0xb6d79000, size 0xe000
-cr3: 2c794000, module loaded - libGLES_trace.so module_base 0xb6d79000 module_end 0xb6dea000, size 0x71000
-cr3: 2c794000, module loaded - libEGL.so module_base 0xb6de9000 module_end 0xb6e55000, size 0x6c000
-cr3: 2c794000, module loaded - libandroid_runtime.so module_base 0xb6e54000 module_end 0xb6f30000, size 0xdc000
-cr3: 2c794000, module loaded - libstdc++.so module_base 0xb6f30000 module_end 0xb6f34000, size 0x4000
-cr3: 2c794000, module loaded - libm.so module_base 0xb6f34000 module_end 0xb6f4e000, size 0x1a000
-cr3: 2c794000, module loaded - liblog.so module_base 0xb6f4e000 module_end 0xb6f55000, size 0x7000
-cr3: 2c794000, module loaded - libc.so module_base 0xb6f56000 module_end 0xb6fcc000, size 0x76000
-cr3: 2c794000, module loaded - libsigchain.so module_base 0xb6fcc000 module_end 0xb6fd0000, size 0x4000
-cr3: 2c794000, module loaded - linker module_base 0xb6fd3000 module_end 0xb6fe2000, size 0xf000
-cr3: 2c794000, module loaded - app_process32 module_base 0xb6fe3000 module_end 0xb6fe6000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-main space module_base 0x12c00000 module_end 0x18c00000, size 0x6000000
-cr3: 2c794000, module loaded - system@framework@boot.art module_base 0x7fabd000 module_end 0x805db000, size 0xb1e000
-cr3: 2c794000, module loaded - system@framework@boot.oat module_base 0x805db000 module_end 0x83541000, size 0x2f66000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-non moving space module_base 0x83541000 module_end 0x87541000, size 0x4000000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-alloc space module_base 0x836a4000 module_end 0x87541000, size 0x3e9d000
-cr3: 2c794000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xa7544000 module_end 0xa754e000, size 0xa000
-cr3: 2c794000, module loaded - base.apk module_base 0xa7546000 module_end 0xa7578000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xa7578000 module_end 0xa757b000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xa757b000 module_end 0xa757c000, size 0x1000
-cr3: 2c794000, module loaded - framework-res.apk module_base 0xae18c000 module_end 0xaed75000, size 0xbe9000
-cr3: 2c794000, module loaded - tzdata module_base 0xaed75000 module_end 0xaee00000, size 0x8b000
-cr3: 2c794000, module loaded - libwebviewchromium_loader.so module_base 0xaef0d000 module_end 0xaef10000, size 0x3000
-cr3: 2c794000, module loaded - libjnigraphics.so module_base 0xaef10000 module_end 0xaef13000, size 0x3000
-cr3: 2c794000, module loaded - libcompiler_rt.so module_base 0xaef13000 module_end 0xaef1b000, size 0x8000
-cr3: 2c794000, module loaded - libandroid.so module_base 0xaef1b000 module_end 0xaef2b000, size 0x10000
-cr3: 2c794000, module loaded - libpixelflinger.so module_base 0xaef2b000 module_end 0xaef4e000, size 0x23000
-cr3: 2c794000, module loaded - libGLES_android.so module_base 0xaef4e000 module_end 0xaef64000, size 0x16000
-cr3: 2c794000, module loaded - libjavacrypto.so module_base 0xaef63000 module_end 0xaef7b000, size 0x18000
-cr3: 2c794000, module loaded - librs_jni.so module_base 0xaef7b000 module_end 0xaef84000, size 0x9000
-cr3: 2c794000, module loaded - libaudioeffect_jni.so module_base 0xaef84000 module_end 0xaef8a000, size 0x6000
-cr3: 2c794000, module loaded - libsoundpool.so module_base 0xaef8a000 module_end 0xaef8e000, size 0x4000
-cr3: 2c794000, module loaded - libstagefright_amrnb_common.so module_base 0xaef8e000 module_end 0xaef9c000, size 0xe000
-cr3: 2c794000, module loaded - libvorbisidec.so module_base 0xaef9c000 module_end 0xaefb7000, size 0x1b000
-cr3: 2c794000, module loaded - libstagefright_yuv.so module_base 0xaefb7000 module_end 0xaefbb000, size 0x4000
-cr3: 2c794000, module loaded - libstagefright_omx.so module_base 0xaefbb000 module_end 0xaefda000, size 0x1f000
-cr3: 2c794000, module loaded - libstagefright_avc_common.so module_base 0xaefda000 module_end 0xaefe1000, size 0x7000
-cr3: 2c794000, module loaded - libopus.so module_base 0xaefe1000 module_end 0xaf01b000, size 0x3a000
-cr3: 2c794000, module loaded - libdrmframework.so module_base 0xaf01b000 module_end 0xaf036000, size 0x1b000
-cr3: 2c794000, module loaded - libstagefright.so module_base 0xaf036000 module_end 0xaf149000, size 0x113000
-cr3: 2c794000, module loaded - libmtp.so module_base 0xaf149000 module_end 0xaf15f000, size 0x16000
-cr3: 2c794000, module loaded - libexif.so module_base 0xaf15f000 module_end 0xaf18b000, size 0x2c000
-cr3: 2c794000, module loaded - libmedia_jni.so module_base 0xaf18b000 module_end 0xaf1c7000, size 0x3c000
-cr3: 2c794000, module loaded - CarroisGothicSC-Regular.ttf module_base 0xaf1c7000 module_end 0xaf1d1000, size 0xa000
-cr3: 2c794000, module loaded - DancingScript-Bold.ttf module_base 0xaf1d1000 module_end 0xaf1ee000, size 0x1d000
-cr3: 2c794000, module loaded - DancingScript-Regular.ttf module_base 0xaf1ee000 module_end 0xaf20b000, size 0x1d000
-cr3: 2c794000, module loaded - ComingSoon.ttf module_base 0xaf20b000 module_end 0xaf21a000, size 0xf000
-cr3: 2c794000, module loaded - CutiveMono.ttf module_base 0xaf21a000 module_end 0xaf22b000, size 0x11000
-cr3: 2c794000, module loaded - DroidSansMono.ttf module_base 0xaf22b000 module_end 0xaf246000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSerif-BoldItalic.ttf module_base 0xaf246000 module_end 0xaf286000, size 0x40000
-cr3: 2c794000, module loaded - NotoSerif-Italic.ttf module_base 0xaf286000 module_end 0xaf2c3000, size 0x3d000
-cr3: 2c794000, module loaded - NotoSerif-Bold.ttf module_base 0xaf2c3000 module_end 0xaf300000, size 0x3d000
-cr3: 2c794000, module loaded - NotoSerif-Regular.ttf module_base 0xaf401000 module_end 0xaf43e000, size 0x3d000
-cr3: 2c794000, module loaded - RobotoCondensed-BoldItalic.ttf module_base 0xaf43e000 module_end 0xaf47e000, size 0x40000
-cr3: 2c794000, module loaded - RobotoCondensed-Bold.ttf module_base 0xaf47e000 module_end 0xaf4b9000, size 0x3b000
-cr3: 2c794000, module loaded - RobotoCondensed-Italic.ttf module_base 0xaf4b9000 module_end 0xaf4f9000, size 0x40000
-cr3: 2c794000, module loaded - RobotoCondensed-Regular.ttf module_base 0xaf4f9000 module_end 0xaf534000, size 0x3b000
-cr3: 2c794000, module loaded - RobotoCondensed-LightItalic.ttf module_base 0xaf534000 module_end 0xaf575000, size 0x41000
-cr3: 2c794000, module loaded - RobotoCondensed-Light.ttf module_base 0xaf575000 module_end 0xaf5b0000, size 0x3b000
-cr3: 2c794000, module loaded - MTLmr3m.ttf module_base 0xaf5b0000 module_end 0xaf821000, size 0x271000
-cr3: 2c794000, module loaded - DroidSansFallback.ttf module_base 0xaf821000 module_end 0xafbfa000, size 0x3d9000
-cr3: 2c794000, module loaded - NotoColorEmoji.ttf module_base 0xafbfa000 module_end 0xafd4d000, size 0x153000
-cr3: 2c794000, module loaded - NotoSansSymbols-Regular-Subsetted.ttf module_base 0xafd4d000 module_end 0xafd6e000, size 0x21000
-cr3: 2c794000, module loaded - NanumGothic.ttf module_base 0xafd6e000 module_end 0xafea9000, size 0x13b000
-cr3: 2c794000, module loaded - NotoSansMyanmarUI-Bold.ttf module_base 0xafea9000 module_end 0xafec1000, size 0x18000
-cr3: 2c794000, module loaded - NotoSansMyanmarUI-Regular.ttf module_base 0xafec1000 module_end 0xafed8000, size 0x17000
-cr3: 2c794000, module loaded - NotoSansMyanmar-Bold.ttf module_base 0xafed8000 module_end 0xafef2000, size 0x1a000
-cr3: 2c794000, module loaded - NotoSansMyanmar-Regular.ttf module_base 0xafef2000 module_end 0xaff0d000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansLaoUI-Bold.ttf module_base 0xaff0d000 module_end 0xaff15000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLaoUI-Regular.ttf module_base 0xaff15000 module_end 0xaff1d000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLao-Bold.ttf module_base 0xaff1d000 module_end 0xaff25000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLao-Regular.ttf module_base 0xaff25000 module_end 0xaff2d000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansKhmerUI-Bold.ttf module_base 0xaff2d000 module_end 0xaff36000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKhmerUI-Regular.ttf module_base 0xaff36000 module_end 0xaff40000, size 0xa000
-cr3: 2c794000, module loaded - NotoSansKhmer-Bold.ttf module_base 0xaff40000 module_end 0xaff49000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKhmer-Regular.ttf module_base 0xaff49000 module_end 0xaff52000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKannadaUI-Bold.ttf module_base 0xaff52000 module_end 0xaff66000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannadaUI-Regular.ttf module_base 0xaff66000 module_end 0xaff7a000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannada-Bold.ttf module_base 0xaff7a000 module_end 0xaff8e000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannada-Regular.ttf module_base 0xaff8e000 module_end 0xaffa2000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansTeluguUI-Bold.ttf module_base 0xaffa2000 module_end 0xaffbd000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansTeluguUI-Regular.ttf module_base 0xaffbd000 module_end 0xaffd9000, size 0x1c000
-cr3: 2c794000, module loaded - NotoSansTelugu-Bold.ttf module_base 0xaffd9000 module_end 0xafff4000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansTelugu-Regular.ttf module_base 0xafff4000 module_end 0xb000f000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansBengaliUI-Bold.ttf module_base 0xb000f000 module_end 0xb0029000, size 0x1a000
-cr3: 2c794000, module loaded - NotoSansBengaliUI-Regular.ttf module_base 0xb0029000 module_end 0xb0044000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansBengali-Bold.ttf module_base 0xb0044000 module_end 0xb005c000, size 0x18000
-cr3: 2c794000, module loaded - NotoSansBengali-Regular.ttf module_base 0xb005c000 module_end 0xb0075000, size 0x19000
-cr3: 2c794000, module loaded - NotoSansMalayalamUI-Bold.ttf module_base 0xb0075000 module_end 0xb0084000, size 0xf000
-cr3: 2c794000, module loaded - NotoSansMalayalamUI-Regular.ttf module_base 0xb0084000 module_end 0xb0093000, size 0xf000
-cr3: 2c794000, module loaded - NotoSansMalayalam-Bold.ttf module_base 0xb0093000 module_end 0xb00a1000, size 0xe000
-cr3: 2c794000, module loaded - NotoSansMalayalam-Regular.ttf module_base 0xb00a1000 module_end 0xb00af000, size 0xe000
-cr3: 2c794000, module loaded - NotoSansTamilUI-Bold.ttf module_base 0xb00af000 module_end 0xb00b8000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamilUI-Regular.ttf module_base 0xb00b8000 module_end 0xb00c1000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamil-Bold.ttf module_base 0xb00c1000 module_end 0xb00ca000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamil-Regular.ttf module_base 0xb00ca000 module_end 0xb00d3000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansDevanagariUI-Bold.ttf module_base 0xb00d3000 module_end 0xb00ef000, size 0x1c000
-cr3: 2c794000, module loaded - NotoSansDevanagariUI-Regular.ttf module_base 0xb00ef000 module_end 0xb010d000, size 0x1e000
-cr3: 2c794000, module loaded - NotoSansDevanagari-Bold.ttf module_base 0xb010d000 module_end 0xb012b000, size 0x1e000
-cr3: 2c794000, module loaded - NotoSansDevanagari-Regular.ttf module_base 0xb012b000 module_end 0xb014a000, size 0x1f000
-cr3: 2c794000, module loaded - NotoSansGeorgian-Bold.ttf module_base 0xb014a000 module_end 0xb014f000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansGeorgian-Regular.ttf module_base 0xb014f000 module_end 0xb0154000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansArmenian-Bold.ttf module_base 0xb0154000 module_end 0xb0158000, size 0x4000
-cr3: 2c794000, module loaded - NotoSansArmenian-Regular.ttf module_base 0xb0158000 module_end 0xb015c000, size 0x4000
-cr3: 2c794000, module loaded - NotoSansThaiUI-Bold.ttf module_base 0xb015c000 module_end 0xb0161000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansThaiUI-Regular.ttf module_base 0xb0161000 module_end 0xb0167000, size 0x6000
-cr3: 2c794000, module loaded - NotoSansThai-Bold.ttf module_base 0xb0167000 module_end 0xb016c000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansThai-Regular.ttf module_base 0xb016c000 module_end 0xb0172000, size 0x6000
-cr3: 2c794000, module loaded - NotoSansHebrew-Bold.ttf module_base 0xb0172000 module_end 0xb0177000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansHebrew-Regular.ttf module_base 0xb0177000 module_end 0xb017c000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansEthiopic-Bold.ttf module_base 0xb017c000 module_end 0xb019f000, size 0x23000
-cr3: 2c794000, module loaded - NotoSansEthiopic-Regular.ttf module_base 0xb019f000 module_end 0xb01c2000, size 0x23000
-cr3: 2c794000, module loaded - NotoNaskhUI-Bold.ttf module_base 0xb01c2000 module_end 0xb01de000, size 0x1c000
-cr3: 2c794000, module loaded - NotoNaskhUI-Regular.ttf module_base 0xb01de000 module_end 0xb01fb000, size 0x1d000
-cr3: 2c794000, module loaded - NotoNaskh-Bold.ttf module_base 0xb01fb000 module_end 0xb0217000, size 0x1c000
-cr3: 2c794000, module loaded - NotoNaskh-Regular.ttf module_base 0xb0217000 module_end 0xb0234000, size 0x1d000
-cr3: 2c794000, module loaded - Roboto-BoldItalic.ttf module_base 0xb0234000 module_end 0xb0275000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Bold.ttf module_base 0xb0275000 module_end 0xb02b1000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-BlackItalic.ttf module_base 0xb02b1000 module_end 0xb02f2000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Black.ttf module_base 0xb02f2000 module_end 0xb032e000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-MediumItalic.ttf module_base 0xb032e000 module_end 0xb036f000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Medium.ttf module_base 0xb036f000 module_end 0xb03aa000, size 0x3b000
-cr3: 2c794000, module loaded - Roboto-Italic.ttf module_base 0xb03aa000 module_end 0xb03eb000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Regular.ttf module_base 0xb03eb000 module_end 0xb0426000, size 0x3b000
-cr3: 2c794000, module loaded - icudt53l.dat module_base 0xb0426000 module_end 0xb1600000, size 0x11da000
-cr3: 2c794000, module loaded - libstagefright_enc_common.so module_base 0xb1700000 module_end 0xb1703000, size 0x3000
-cr3: 2c794000, module loaded - libjhead.so module_base 0xb1703000 module_end 0xb170e000, size 0xb000
-cr3: 2c794000, module loaded - Roboto-LightItalic.ttf module_base 0xb170f000 module_end 0xb1750000, size 0x41000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace alloc space mark-bitmap 4 module_base 0xb1a04000 module_end 0xb1aff000, size 0xfb000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space mark-bitmap 3 module_base 0xb1aff000 module_end 0xb1bbf000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space live-bitmap 3 module_base 0xb1bbf000 module_end 0xb1c7f000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-rosalloc page map module_base 0xb1c7f000 module_end 0xb1c82000, size 0x3000
-cr3: 2c794000, module loaded - icudt53l.dat module_base 0xb1c82000 module_end 0xb2e5c000, size 0x11da000
-cr3: 2c794000, module loaded - libjavacore.so module_base 0xb2e5c000 module_end 0xb2e95000, size 0x39000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2e95000 module_end 0xb2e98000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb2e98000 module_end 0xb2e99000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2e99000 module_end 0xb2f93000, size 0xfa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb2f93000 module_end 0xb2fc5000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2fc5000 module_end 0xb30bf000, size 0xfa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb30bf000 module_end 0xb30f1000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-mark sweep sweep array free buffer module_base 0xb30f1000 module_end 0xb30f7000, size 0x6000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-live stack module_base 0xb30f7000 module_end 0xb34f8000, size 0x401000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocation stack module_base 0xb34f8000 module_end 0xb38f9000, size 0x401000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-mark stack module_base 0xb38f9000 module_end 0xb3939000, size 0x40000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-card table module_base 0xb3939000 module_end 0xb47cc000, size 0xe93000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large marked objects module_base 0xb47cc000 module_end 0xb47ec000, size 0x20000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large live objects module_base 0xb47ec000 module_end 0xb480c000, size 0x20000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space 1 mark-bitmap 2 module_base 0xb480c000 module_end 0xb48cc000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space 1 live-bitmap 2ess32 module_base 0xb48cc000 module_end 0xb498c000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-rosalloc page map module_base 0xb498c000 module_end 0xb49e8000, size 0x5c000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49a5000 module_end 0xb49aa000, size 0x5000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49aa000 module_end 0xb49ad000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ad000 module_end 0xb49ae000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b0000 module_end 0xb49e1000, size 0x31000
-cr3: 2c794000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xb49e1000 module_end 0xb49eb000, size 0xa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ea000 module_end 0xb49ed000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ed000 module_end 0xb49ee000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f0000 module_end 0xb49f3000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f3000 module_end 0xb49f4000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f6000 module_end 0xb49f9000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f9000 module_end 0xb49fa000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fa000 module_end 0xb49fd000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49fd000 module_end 0xb49fe000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fe000 module_end 0xb4a01000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a01000 module_end 0xb4a02000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a02000 module_end 0xb4a15000, size 0x13000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace alloc space live-bitmap 4 module_base 0xb4a17000 module_end 0xb4b12000, size 0xfb000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space mark-bitmP module_base 0xb4b12000 module_end 0xb4c12000, size 0x100000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space live-bitm module_base 0xb4c12000 module_end 0xb4d12000, size 0x100000
-cr3: 2c794000, module loaded - libart.so module_base 0xb4d12000 module_end 0xb4ffe000, size 0x2ec000
-cr3: 2c794000, module loaded - libpowermanager.so module_base 0xb5201000 module_end 0xb5207000, size 0x6000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb5206000 module_end 0xb5207000, size 0x1000
-cr3: 2c794000, module loaded - Roboto-Light.ttf module_base 0xb5208000 module_end 0xb5244000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-ThinItalic.ttf module_base 0xb5244000 module_end 0xb5286000, size 0x42000
-cr3: 2c794000, module loaded - Roboto-Thin.ttf module_base 0xb5286000 module_end 0xb52c3000, size 0x3d000
-cr3: 2c794000, module loaded - system@framework@boot.oat module_base 0xb52c3000 module_end 0xb8229000, size 0x2f66000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb52c4000 module_end 0xb52c5000, size 0x1000
-cr3: 2c794000, module loaded - system@framework@boot.art module_base 0xb52c5000 module_end 0xb5de3000, size 0xb1e000
-cr3: 2c794000, module loaded - libbacktrace_libc++.so module_base 0xb52f2000 module_end 0xb52fc000, size 0xa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb52fc000 module_end 0xb52fd000, size 0x1000
-cr3: 2c794000, module loaded - __properties__ module_base 0xb52fd000 module_end 0xb531d000, size 0x20000
-cr3: 2c794000, module loaded - libusbhost.so module_base 0xb531d000 module_end 0xb5321000, size 0x4000
-cr3: 2c794000, module loaded - libssl.so module_base 0xb5321000 module_end 0xb5361000, size 0x40000
-cr3: 2c794000, module loaded - libsqlite.so module_base 0xb5361000 module_end 0xb53c1000, size 0x60000
-cr3: 2c794000, module loaded - libsoundtrigger.so module_base 0xb53c2000 module_end 0xb53d1000, size 0xf000
-cr3: 2c794000, module loaded - libselinux.so module_base 0xb53d1000 module_end 0xb53df000, size 0xe000
-cr3: 2c794000, module loaded - libprocessgroup.so module_base 0xb53df000 module_end 0xb53e3000, size 0x4000
-cr3: 2c794000, module loaded - libpdfium.so module_base 0xb53e3000 module_end 0xb5826000, size 0x443000
-cr3: 2c794000, module loaded - libnetd_client.so module_base 0xb582b000 module_end 0xb5830000, size 0x5000
-cr3: 2c794000, module loaded - libnativehelper.so module_base 0xb582f000 module_end 0xb5836000, size 0x7000
-cr3: 2c794000, module loaded - libnativebridge.so module_base 0xb5836000 module_end 0xb583a000, size 0x4000
-cr3: 2c794000, module loaded - libminikin.so module_base 0xb583a000 module_end 0xb5846000, size 0xc000
-cr3: 2c794000, module loaded - libmemtrack.so module_base 0xb5846000 module_end 0xb5849000, size 0x3000
-cr3: 2c794000, module loaded - libstagefright_foundation.so module_base 0xb5849000 module_end 0xb585e000, size 0x15000
-cr3: 2c794000, module loaded - libsonivox.so module_base 0xb585e000 module_end 0xb58af000, size 0x51000
-cr3: 2c794000, module loaded - libcommon_time_client.so module_base 0xb58b4000 module_end 0xb58c3000, size 0xf000
-cr3: 2c794000, module loaded - libnbaio.so module_base 0xb58c3000 module_end 0xb58cd000, size 0xa000
-cr3: 2c794000, module loaded - libmedia.so module_base 0xb58cd000 module_end 0xb5968000, size 0x9b000
-cr3: 2c794000, module loaded - libinputflinger.so module_base 0xb5968000 module_end 0xb59a4000, size 0x3c000
-cr3: 2c794000, module loaded - libinput.so module_base 0xb59a4000 module_end 0xb59bf000, size 0x1b000
-cr3: 2c794000, module loaded - libimg_utils.so module_base 0xb59bf000 module_end 0xb59ce000, size 0xf000
-cr3: 2c794000, module loaded - libjpeg.so module_base 0xb59cf000 module_end 0xb59fb000, size 0x2c000
-cr3: 2c794000, module loaded - libskia.so module_base 0xb59fb000 module_end 0xb5c1e000, size 0x223000
-cr3: 2c794000, module loaded - libRScpp.so module_base 0xb5c23000 module_end 0xb5c40000, size 0x1d000
-cr3: 2c794000, module loaded - libpng.so module_base 0xb5c40000 module_end 0xb5c68000, size 0x28000
-cr3: 2c794000, module loaded - libft2.so module_base 0xb5c68000 module_end 0xb5cc2000, size 0x5a000
-cr3: 2c794000, module loaded - libbcinfo.so module_base 0xb5cc2000 module_end 0xb5d0d000, size 0x4b000
-cr3: 2c794000, module loaded - libbcc.so module_base 0xb5d0d000 module_end 0xb5d33000, size 0x26000
-cr3: 2c794000, module loaded - libc++.so module_base 0xb5d53000 module_end 0xb5de8000, size 0x95000
-cr3: 2c794000, module loaded - libLLVM.so module_base 0xb5de8000 module_end 0xb6716000, size 0x92e000
-cr3: 2c794000, module loaded - libRS.so module_base 0xb671d000 module_end 0xb6757000, size 0x3a000
-cr3: 2c794000, module loaded - libhwui.so module_base 0xb6757000 module_end 0xb67a3000, size 0x4c000
-cr3: 2c794000, module loaded - libicuuc.so module_base 0xb67a3000 module_end 0xb68a5000, size 0x102000
-cr3: 2c794000, module loaded - libgabi++.so module_base 0xb68a9000 module_end 0xb68af000, size 0x6000
-cr3: 2c794000, module loaded - libicui18n.so module_base 0xb68af000 module_end 0xb6a06000, size 0x157000
-cr3: 2c794000, module loaded - libharfbuzz_ng.so module_base 0xb6a06000 module_end 0xb6a4e000, size 0x48000
-cr3: 2c794000, module loaded - libnetutils.so module_base 0xb6a4e000 module_end 0xb6a56000, size 0x8000
-cr3: 2c794000, module loaded - libhardware_legacy.so module_base 0xb6a55000 module_end 0xb6a5d000, size 0x8000
-cr3: 2c794000, module loaded - libexpat.so module_base 0xb6a5c000 module_end 0xb6a73000, size 0x17000
-cr3: 2c794000, module loaded - libcrypto.so module_base 0xb6a73000 module_end 0xb6b75000, size 0x102000
-cr3: 2c794000, module loaded - libhardware.so module_base 0xb6b77000 module_end 0xb6b7b000, size 0x4000
-cr3: 2c794000, module loaded - libui.so module_base 0xb6b7a000 module_end 0xb6b86000, size 0xc000
-cr3: 2c794000, module loaded - libsync.so module_base 0xb6b86000 module_end 0xb6b89000, size 0x3000
-cr3: 2c794000, module loaded - libgui.so module_base 0xb6b89000 module_end 0xb6bd8000, size 0x4f000
-cr3: 2c794000, module loaded - libcamera_metadata.so module_base 0xb6bd8000 module_end 0xb6be0000, size 0x8000
-cr3: 2c794000, module loaded - libcamera_client.so module_base 0xb6be0000 module_end 0xb6c1a000, size 0x3a000
-cr3: 2c794000, module loaded - libspeexresampler.so module_base 0xb6c1a000 module_end 0xb6c20000, size 0x6000
-cr3: 2c794000, module loaded - libaudioutils.so module_base 0xb6c20000 module_end 0xb6c26000, size 0x6000
-cr3: 2c794000, module loaded - libz.so module_base 0xb6c26000 module_end 0xb6c40000, size 0x1a000
-cr3: 2c794000, module loaded - libbinder.so module_base 0xb6c40000 module_end 0xb6c70000, size 0x30000
-cr3: 2c794000, module loaded - libandroidfw.so module_base 0xb6c70000 module_end 0xb6c98000, size 0x28000
-cr3: 2c794000, module loaded - libGLESv2.so module_base 0xb6c98000 module_end 0xb6ca3000, size 0xb000
-cr3: 2c794000, module loaded - libGLESv1_CM.so module_base 0xb6ca3000 module_end 0xb6caa000, size 0x7000
-cr3: 2c794000, module loaded - libETC1.so module_base 0xb6caa000 module_end 0xb6cae000, size 0x4000
-cr3: 2c794000, module loaded - libunwind-ptrace.so module_base 0xb6cae000 module_end 0xb6cb2000, size 0x4000
-cr3: 2c794000, module loaded - libunwind.so module_base 0xb6cb2000 module_end 0xb6cc0000, size 0xe000
-cr3: 2c794000, module loaded - libgccdemangle.so module_base 0xb6d06000 module_end 0xb6d0e000, size 0x8000
-cr3: 2c794000, module loaded - libbacktrace.so module_base 0xb6d0f000 module_end 0xb6d18000, size 0x9000
-cr3: 2c794000, module loaded - libutils.so module_base 0xb6d18000 module_end 0xb6d30000, size 0x18000
-cr3: 2c794000, module loaded - libstlport.so module_base 0xb6d30000 module_end 0xb6d6b000, size 0x3b000
-cr3: 2c794000, module loaded - libcutils.so module_base 0xb6d6b000 module_end 0xb6d79000, size 0xe000
-cr3: 2c794000, module loaded - libGLES_trace.so module_base 0xb6d79000 module_end 0xb6dea000, size 0x71000
-cr3: 2c794000, module loaded - libEGL.so module_base 0xb6de9000 module_end 0xb6e55000, size 0x6c000
-cr3: 2c794000, module loaded - libandroid_runtime.so module_base 0xb6e54000 module_end 0xb6f30000, size 0xdc000
-cr3: 2c794000, module loaded - libstdc++.so module_base 0xb6f30000 module_end 0xb6f34000, size 0x4000
-cr3: 2c794000, module loaded - libm.so module_base 0xb6f34000 module_end 0xb6f4e000, size 0x1a000
-cr3: 2c794000, module loaded - liblog.so module_base 0xb6f4e000 module_end 0xb6f55000, size 0x7000
-cr3: 2c794000, module loaded - libc.so module_base 0xb6f56000 module_end 0xb6fcc000, size 0x76000
-cr3: 2c794000, module loaded - libsigchain.so module_base 0xb6fcc000 module_end 0xb6fd0000, size 0x4000
-cr3: 2c794000, module loaded - linker module_base 0xb6fd3000 module_end 0xb6fe2000, size 0xf000
-cr3: 2c794000, module loaded - app_process32 module_base 0xb6fe3000 module_end 0xb6fe6000, size 0x3000
-cr3: 2c698000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49a5000 module_end 0xb49aa000, size 0x5000
-cr3: 2c698000, module loaded - libsecexe.so module_base 0xb49a4000 module_end 0xb49a5000, size 0x1000
-cr3: 2c698000, module loaded - libsecexe.so module_base 0xb17d5000 module_end 0xb17d6000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-main space module_base 0x12c00000 module_end 0x18c00000, size 0x6000000
-cr3: 2c794000, module loaded - system@framework@boot.art module_base 0x7fabd000 module_end 0x805db000, size 0xb1e000
-cr3: 2c794000, module loaded - system@framework@boot.oat module_base 0x805db000 module_end 0x83541000, size 0x2f66000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-non moving space module_base 0x83541000 module_end 0x87541000, size 0x4000000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-alloc space module_base 0x836a4000 module_end 0x87541000, size 0x3e9d000
-cr3: 2c794000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xa7544000 module_end 0xa754e000, size 0xa000
-cr3: 2c794000, module loaded - base.apk module_base 0xa7546000 module_end 0xa7578000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xa7578000 module_end 0xa757b000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xa757b000 module_end 0xa757c000, size 0x1000
-cr3: 2c794000, module loaded - framework-res.apk module_base 0xae18c000 module_end 0xaed75000, size 0xbe9000
-cr3: 2c794000, module loaded - tzdata module_base 0xaed75000 module_end 0xaee00000, size 0x8b000
-cr3: 2c794000, module loaded - libwebviewchromium_loader.so module_base 0xaef0d000 module_end 0xaef10000, size 0x3000
-cr3: 2c794000, module loaded - libjnigraphics.so module_base 0xaef10000 module_end 0xaef13000, size 0x3000
-cr3: 2c794000, module loaded - libcompiler_rt.so module_base 0xaef13000 module_end 0xaef1b000, size 0x8000
-cr3: 2c794000, module loaded - libandroid.so module_base 0xaef1b000 module_end 0xaef2b000, size 0x10000
-cr3: 2c794000, module loaded - libpixelflinger.so module_base 0xaef2b000 module_end 0xaef4e000, size 0x23000
-cr3: 2c794000, module loaded - libGLES_android.so module_base 0xaef4e000 module_end 0xaef64000, size 0x16000
-cr3: 2c794000, module loaded - libjavacrypto.so module_base 0xaef63000 module_end 0xaef7b000, size 0x18000
-cr3: 2c794000, module loaded - librs_jni.so module_base 0xaef7b000 module_end 0xaef84000, size 0x9000
-cr3: 2c794000, module loaded - libaudioeffect_jni.so module_base 0xaef84000 module_end 0xaef8a000, size 0x6000
-cr3: 2c794000, module loaded - libsoundpool.so module_base 0xaef8a000 module_end 0xaef8e000, size 0x4000
-cr3: 2c794000, module loaded - libstagefright_amrnb_common.so module_base 0xaef8e000 module_end 0xaef9c000, size 0xe000
-cr3: 2c794000, module loaded - libvorbisidec.so module_base 0xaef9c000 module_end 0xaefb7000, size 0x1b000
-cr3: 2c794000, module loaded - libstagefright_yuv.so module_base 0xaefb7000 module_end 0xaefbb000, size 0x4000
-cr3: 2c794000, module loaded - libstagefright_omx.so module_base 0xaefbb000 module_end 0xaefda000, size 0x1f000
-cr3: 2c794000, module loaded - libstagefright_avc_common.so module_base 0xaefda000 module_end 0xaefe1000, size 0x7000
-cr3: 2c794000, module loaded - libopus.so module_base 0xaefe1000 module_end 0xaf01b000, size 0x3a000
-cr3: 2c794000, module loaded - libdrmframework.so module_base 0xaf01b000 module_end 0xaf036000, size 0x1b000
-cr3: 2c794000, module loaded - libstagefright.so module_base 0xaf036000 module_end 0xaf149000, size 0x113000
-cr3: 2c794000, module loaded - libmtp.so module_base 0xaf149000 module_end 0xaf15f000, size 0x16000
-cr3: 2c794000, module loaded - libexif.so module_base 0xaf15f000 module_end 0xaf18b000, size 0x2c000
-cr3: 2c794000, module loaded - libmedia_jni.so module_base 0xaf18b000 module_end 0xaf1c7000, size 0x3c000
-cr3: 2c794000, module loaded - CarroisGothicSC-Regular.ttf module_base 0xaf1c7000 module_end 0xaf1d1000, size 0xa000
-cr3: 2c794000, module loaded - DancingScript-Bold.ttf module_base 0xaf1d1000 module_end 0xaf1ee000, size 0x1d000
-cr3: 2c794000, module loaded - DancingScript-Regular.ttf module_base 0xaf1ee000 module_end 0xaf20b000, size 0x1d000
-cr3: 2c794000, module loaded - ComingSoon.ttf module_base 0xaf20b000 module_end 0xaf21a000, size 0xf000
-cr3: 2c794000, module loaded - CutiveMono.ttf module_base 0xaf21a000 module_end 0xaf22b000, size 0x11000
-cr3: 2c794000, module loaded - DroidSansMono.ttf module_base 0xaf22b000 module_end 0xaf246000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSerif-BoldItalic.ttf module_base 0xaf246000 module_end 0xaf286000, size 0x40000
-cr3: 2c794000, module loaded - NotoSerif-Italic.ttf module_base 0xaf286000 module_end 0xaf2c3000, size 0x3d000
-cr3: 2c794000, module loaded - NotoSerif-Bold.ttf module_base 0xaf2c3000 module_end 0xaf300000, size 0x3d000
-cr3: 2c794000, module loaded - NotoSerif-Regular.ttf module_base 0xaf401000 module_end 0xaf43e000, size 0x3d000
-cr3: 2c794000, module loaded - RobotoCondensed-BoldItalic.ttf module_base 0xaf43e000 module_end 0xaf47e000, size 0x40000
-cr3: 2c794000, module loaded - RobotoCondensed-Bold.ttf module_base 0xaf47e000 module_end 0xaf4b9000, size 0x3b000
-cr3: 2c794000, module loaded - RobotoCondensed-Italic.ttf module_base 0xaf4b9000 module_end 0xaf4f9000, size 0x40000
-cr3: 2c794000, module loaded - RobotoCondensed-Regular.ttf module_base 0xaf4f9000 module_end 0xaf534000, size 0x3b000
-cr3: 2c794000, module loaded - RobotoCondensed-LightItalic.ttf module_base 0xaf534000 module_end 0xaf575000, size 0x41000
-cr3: 2c794000, module loaded - RobotoCondensed-Light.ttf module_base 0xaf575000 module_end 0xaf5b0000, size 0x3b000
-cr3: 2c794000, module loaded - MTLmr3m.ttf module_base 0xaf5b0000 module_end 0xaf821000, size 0x271000
-cr3: 2c794000, module loaded - DroidSansFallback.ttf module_base 0xaf821000 module_end 0xafbfa000, size 0x3d9000
-cr3: 2c794000, module loaded - NotoColorEmoji.ttf module_base 0xafbfa000 module_end 0xafd4d000, size 0x153000
-cr3: 2c794000, module loaded - NotoSansSymbols-Regular-Subsetted.ttf module_base 0xafd4d000 module_end 0xafd6e000, size 0x21000
-cr3: 2c794000, module loaded - NanumGothic.ttf module_base 0xafd6e000 module_end 0xafea9000, size 0x13b000
-cr3: 2c794000, module loaded - NotoSansMyanmarUI-Bold.ttf module_base 0xafea9000 module_end 0xafec1000, size 0x18000
-cr3: 2c794000, module loaded - NotoSansMyanmarUI-Regular.ttf module_base 0xafec1000 module_end 0xafed8000, size 0x17000
-cr3: 2c794000, module loaded - NotoSansMyanmar-Bold.ttf module_base 0xafed8000 module_end 0xafef2000, size 0x1a000
-cr3: 2c794000, module loaded - NotoSansMyanmar-Regular.ttf module_base 0xafef2000 module_end 0xaff0d000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansLaoUI-Bold.ttf module_base 0xaff0d000 module_end 0xaff15000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLaoUI-Regular.ttf module_base 0xaff15000 module_end 0xaff1d000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLao-Bold.ttf module_base 0xaff1d000 module_end 0xaff25000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansLao-Regular.ttf module_base 0xaff25000 module_end 0xaff2d000, size 0x8000
-cr3: 2c794000, module loaded - NotoSansKhmerUI-Bold.ttf module_base 0xaff2d000 module_end 0xaff36000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKhmerUI-Regular.ttf module_base 0xaff36000 module_end 0xaff40000, size 0xa000
-cr3: 2c794000, module loaded - NotoSansKhmer-Bold.ttf module_base 0xaff40000 module_end 0xaff49000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKhmer-Regular.ttf module_base 0xaff49000 module_end 0xaff52000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansKannadaUI-Bold.ttf module_base 0xaff52000 module_end 0xaff66000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannadaUI-Regular.ttf module_base 0xaff66000 module_end 0xaff7a000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannada-Bold.ttf module_base 0xaff7a000 module_end 0xaff8e000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansKannada-Regular.ttf module_base 0xaff8e000 module_end 0xaffa2000, size 0x14000
-cr3: 2c794000, module loaded - NotoSansTeluguUI-Bold.ttf module_base 0xaffa2000 module_end 0xaffbd000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansTeluguUI-Regular.ttf module_base 0xaffbd000 module_end 0xaffd9000, size 0x1c000
-cr3: 2c794000, module loaded - NotoSansTelugu-Bold.ttf module_base 0xaffd9000 module_end 0xafff4000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansTelugu-Regular.ttf module_base 0xafff4000 module_end 0xb000f000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansBengaliUI-Bold.ttf module_base 0xb000f000 module_end 0xb0029000, size 0x1a000
-cr3: 2c794000, module loaded - NotoSansBengaliUI-Regular.ttf module_base 0xb0029000 module_end 0xb0044000, size 0x1b000
-cr3: 2c794000, module loaded - NotoSansBengali-Bold.ttf module_base 0xb0044000 module_end 0xb005c000, size 0x18000
-cr3: 2c794000, module loaded - NotoSansBengali-Regular.ttf module_base 0xb005c000 module_end 0xb0075000, size 0x19000
-cr3: 2c794000, module loaded - NotoSansMalayalamUI-Bold.ttf module_base 0xb0075000 module_end 0xb0084000, size 0xf000
-cr3: 2c794000, module loaded - NotoSansMalayalamUI-Regular.ttf module_base 0xb0084000 module_end 0xb0093000, size 0xf000
-cr3: 2c794000, module loaded - NotoSansMalayalam-Bold.ttf module_base 0xb0093000 module_end 0xb00a1000, size 0xe000
-cr3: 2c794000, module loaded - NotoSansMalayalam-Regular.ttf module_base 0xb00a1000 module_end 0xb00af000, size 0xe000
-cr3: 2c794000, module loaded - NotoSansTamilUI-Bold.ttf module_base 0xb00af000 module_end 0xb00b8000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamilUI-Regular.ttf module_base 0xb00b8000 module_end 0xb00c1000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamil-Bold.ttf module_base 0xb00c1000 module_end 0xb00ca000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansTamil-Regular.ttf module_base 0xb00ca000 module_end 0xb00d3000, size 0x9000
-cr3: 2c794000, module loaded - NotoSansDevanagariUI-Bold.ttf module_base 0xb00d3000 module_end 0xb00ef000, size 0x1c000
-cr3: 2c794000, module loaded - NotoSansDevanagariUI-Regular.ttf module_base 0xb00ef000 module_end 0xb010d000, size 0x1e000
-cr3: 2c794000, module loaded - NotoSansDevanagari-Bold.ttf module_base 0xb010d000 module_end 0xb012b000, size 0x1e000
-cr3: 2c794000, module loaded - NotoSansDevanagari-Regular.ttf module_base 0xb012b000 module_end 0xb014a000, size 0x1f000
-cr3: 2c794000, module loaded - NotoSansGeorgian-Bold.ttf module_base 0xb014a000 module_end 0xb014f000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansGeorgian-Regular.ttf module_base 0xb014f000 module_end 0xb0154000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansArmenian-Bold.ttf module_base 0xb0154000 module_end 0xb0158000, size 0x4000
-cr3: 2c794000, module loaded - NotoSansArmenian-Regular.ttf module_base 0xb0158000 module_end 0xb015c000, size 0x4000
-cr3: 2c794000, module loaded - NotoSansThaiUI-Bold.ttf module_base 0xb015c000 module_end 0xb0161000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansThaiUI-Regular.ttf module_base 0xb0161000 module_end 0xb0167000, size 0x6000
-cr3: 2c794000, module loaded - NotoSansThai-Bold.ttf module_base 0xb0167000 module_end 0xb016c000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansThai-Regular.ttf module_base 0xb016c000 module_end 0xb0172000, size 0x6000
-cr3: 2c794000, module loaded - NotoSansHebrew-Bold.ttf module_base 0xb0172000 module_end 0xb0177000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansHebrew-Regular.ttf module_base 0xb0177000 module_end 0xb017c000, size 0x5000
-cr3: 2c794000, module loaded - NotoSansEthiopic-Bold.ttf module_base 0xb017c000 module_end 0xb019f000, size 0x23000
-cr3: 2c794000, module loaded - NotoSansEthiopic-Regular.ttf module_base 0xb019f000 module_end 0xb01c2000, size 0x23000
-cr3: 2c794000, module loaded - NotoNaskhUI-Bold.ttf module_base 0xb01c2000 module_end 0xb01de000, size 0x1c000
-cr3: 2c794000, module loaded - NotoNaskhUI-Regular.ttf module_base 0xb01de000 module_end 0xb01fb000, size 0x1d000
-cr3: 2c794000, module loaded - NotoNaskh-Bold.ttf module_base 0xb01fb000 module_end 0xb0217000, size 0x1c000
-cr3: 2c794000, module loaded - NotoNaskh-Regular.ttf module_base 0xb0217000 module_end 0xb0234000, size 0x1d000
-cr3: 2c794000, module loaded - Roboto-BoldItalic.ttf module_base 0xb0234000 module_end 0xb0275000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Bold.ttf module_base 0xb0275000 module_end 0xb02b1000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-BlackItalic.ttf module_base 0xb02b1000 module_end 0xb02f2000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Black.ttf module_base 0xb02f2000 module_end 0xb032e000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-MediumItalic.ttf module_base 0xb032e000 module_end 0xb036f000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Medium.ttf module_base 0xb036f000 module_end 0xb03aa000, size 0x3b000
-cr3: 2c794000, module loaded - Roboto-Italic.ttf module_base 0xb03aa000 module_end 0xb03eb000, size 0x41000
-cr3: 2c794000, module loaded - Roboto-Regular.ttf module_base 0xb03eb000 module_end 0xb0426000, size 0x3b000
-cr3: 2c794000, module loaded - icudt53l.dat module_base 0xb0426000 module_end 0xb1600000, size 0x11da000
-cr3: 2c794000, module loaded - libstagefright_enc_common.so module_base 0xb1700000 module_end 0xb1703000, size 0x3000
-cr3: 2c794000, module loaded - libjhead.so module_base 0xb1703000 module_end 0xb170e000, size 0xb000
-cr3: 2c794000, module loaded - Roboto-LightItalic.ttf module_base 0xb170f000 module_end 0xb1750000, size 0x41000
-cr3: 2c794000, module loaded - libsecexe.so module_base 0xb17d5000 module_end 0xb1807000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace alloc space mark-bitmap 4 module_base 0xb1a04000 module_end 0xb1aff000, size 0xfb000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space mark-bitmap 3 module_base 0xb1aff000 module_end 0xb1bbf000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space live-bitmap 3 module_base 0xb1bbf000 module_end 0xb1c7f000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-rosalloc page map module_base 0xb1c7f000 module_end 0xb1c82000, size 0x3000
-cr3: 2c794000, module loaded - icudt53l.dat module_base 0xb1c82000 module_end 0xb2e5c000, size 0x11da000
-cr3: 2c794000, module loaded - libjavacore.so module_base 0xb2e5c000 module_end 0xb2e95000, size 0x39000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2e95000 module_end 0xb2e98000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb2e98000 module_end 0xb2e99000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2e99000 module_end 0xb2f93000, size 0xfa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb2f93000 module_end 0xb2fc5000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb2fc5000 module_end 0xb30bf000, size 0xfa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb30bf000 module_end 0xb30f1000, size 0x32000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-mark sweep sweep array free buffer module_base 0xb30f1000 module_end 0xb30f7000, size 0x6000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-live stack module_base 0xb30f7000 module_end 0xb34f8000, size 0x401000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocation stack module_base 0xb34f8000 module_end 0xb38f9000, size 0x401000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-mark stack module_base 0xb38f9000 module_end 0xb3939000, size 0x40000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-card table module_base 0xb3939000 module_end 0xb47cc000, size 0xe93000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large marked objects module_base 0xb47cc000 module_end 0xb47ec000, size 0x20000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large live objects module_base 0xb47ec000 module_end 0xb480c000, size 0x20000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space 1 mark-bitmap 2 module_base 0xb480c000 module_end 0xb48cc000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace main rosalloc space 1 live-bitmap 2ess32 module_base 0xb48cc000 module_end 0xb498c000, size 0xc0000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-rosalloc page map module_base 0xb498c000 module_end 0xb49e8000, size 0x5c000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49a5000 module_end 0xb49aa000, size 0x5000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49aa000 module_end 0xb49ad000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ad000 module_end 0xb49ae000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b0000 module_end 0xb49e1000, size 0x31000
-cr3: 2c794000, module loaded - data@app@com.example.hellojni-1@base.apk@classes.dex module_base 0xb49e1000 module_end 0xb49eb000, size 0xa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ea000 module_end 0xb49ed000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ed000 module_end 0xb49ee000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f0000 module_end 0xb49f3000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f3000 module_end 0xb49f4000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f6000 module_end 0xb49f9000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f9000 module_end 0xb49fa000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fa000 module_end 0xb49fd000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49fd000 module_end 0xb49fe000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fe000 module_end 0xb4a01000, size 0x3000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a01000 module_end 0xb4a02000, size 0x1000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a02000 module_end 0xb4a15000, size 0x13000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace alloc space live-bitmap 4 module_base 0xb4a17000 module_end 0xb4b12000, size 0xfb000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space mark-bitmP module_base 0xb4b12000 module_end 0xb4c12000, size 0x100000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space live-bitm module_base 0xb4c12000 module_end 0xb4d12000, size 0x100000
-cr3: 2c794000, module loaded - libart.so module_base 0xb4d12000 module_end 0xb4ffe000, size 0x2ec000
-cr3: 2c794000, module loaded - libpowermanager.so module_base 0xb5201000 module_end 0xb5207000, size 0x6000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb5206000 module_end 0xb5207000, size 0x1000
-cr3: 2c794000, module loaded - Roboto-Light.ttf module_base 0xb5208000 module_end 0xb5244000, size 0x3c000
-cr3: 2c794000, module loaded - Roboto-ThinItalic.ttf module_base 0xb5244000 module_end 0xb5286000, size 0x42000
-cr3: 2c794000, module loaded - Roboto-Thin.ttf module_base 0xb5286000 module_end 0xb52c3000, size 0x3d000
-cr3: 2c794000, module loaded - system@framework@boot.oat module_base 0xb52c3000 module_end 0xb8229000, size 0x2f66000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb52c4000 module_end 0xb52c5000, size 0x1000
-cr3: 2c794000, module loaded - system@framework@boot.art module_base 0xb52c5000 module_end 0xb5de3000, size 0xb1e000
-cr3: 2c794000, module loaded - libbacktrace_libc++.so module_base 0xb52f2000 module_end 0xb52fc000, size 0xa000
-cr3: 2c794000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb52fc000 module_end 0xb52fd000, size 0x1000
-cr3: 2c794000, module loaded - __properties__ module_base 0xb52fd000 module_end 0xb531d000, size 0x20000
-cr3: 2c794000, module loaded - libusbhost.so module_base 0xb531d000 module_end 0xb5321000, size 0x4000
-cr3: 2c794000, module loaded - libssl.so module_base 0xb5321000 module_end 0xb5361000, size 0x40000
-cr3: 2c794000, module loaded - libsqlite.so module_base 0xb5361000 module_end 0xb53c1000, size 0x60000
-cr3: 2c794000, module loaded - libsoundtrigger.so module_base 0xb53c2000 module_end 0xb53d1000, size 0xf000
-cr3: 2c794000, module loaded - libselinux.so module_base 0xb53d1000 module_end 0xb53df000, size 0xe000
-cr3: 2c794000, module loaded - libprocessgroup.so module_base 0xb53df000 module_end 0xb53e3000, size 0x4000
-cr3: 2c794000, module loaded - libpdfium.so module_base 0xb53e3000 module_end 0xb5826000, size 0x443000
-cr3: 2c794000, module loaded - libnetd_client.so module_base 0xb582b000 module_end 0xb5830000, size 0x5000
-cr3: 2c794000, module loaded - libnativehelper.so module_base 0xb582f000 module_end 0xb5836000, size 0x7000
-cr3: 2c794000, module loaded - libnativebridge.so module_base 0xb5836000 module_end 0xb583a000, size 0x4000
-cr3: 2c794000, module loaded - libminikin.so module_base 0xb583a000 module_end 0xb5846000, size 0xc000
-cr3: 2c794000, module loaded - libmemtrack.so module_base 0xb5846000 module_end 0xb5849000, size 0x3000
-cr3: 2c794000, module loaded - libstagefright_foundation.so module_base 0xb5849000 module_end 0xb585e000, size 0x15000
-cr3: 2c794000, module loaded - libsonivox.so module_base 0xb585e000 module_end 0xb58af000, size 0x51000
-cr3: 2c794000, module loaded - libcommon_time_client.so module_base 0xb58b4000 module_end 0xb58c3000, size 0xf000
-cr3: 2c794000, module loaded - libnbaio.so module_base 0xb58c3000 module_end 0xb58cd000, size 0xa000
-cr3: 2c794000, module loaded - libmedia.so module_base 0xb58cd000 module_end 0xb5968000, size 0x9b000
-cr3: 2c794000, module loaded - libinputflinger.so module_base 0xb5968000 module_end 0xb59a4000, size 0x3c000
-cr3: 2c794000, module loaded - libinput.so module_base 0xb59a4000 module_end 0xb59bf000, size 0x1b000
-cr3: 2c794000, module loaded - libimg_utils.so module_base 0xb59bf000 module_end 0xb59ce000, size 0xf000
-cr3: 2c794000, module loaded - libjpeg.so module_base 0xb59cf000 module_end 0xb59fb000, size 0x2c000
-cr3: 2c794000, module loaded - libskia.so module_base 0xb59fb000 module_end 0xb5c1e000, size 0x223000
-cr3: 2c794000, module loaded - libRScpp.so module_base 0xb5c23000 module_end 0xb5c40000, size 0x1d000
-cr3: 2c794000, module loaded - libpng.so module_base 0xb5c40000 module_end 0xb5c68000, size 0x28000
-cr3: 2c794000, module loaded - libft2.so module_base 0xb5c68000 module_end 0xb5cc2000, size 0x5a000
-cr3: 2c794000, module loaded - libbcinfo.so module_base 0xb5cc2000 module_end 0xb5d0d000, size 0x4b000
-cr3: 2c794000, module loaded - libbcc.so module_base 0xb5d0d000 module_end 0xb5d33000, size 0x26000
-cr3: 2c794000, module loaded - libc++.so module_base 0xb5d53000 module_end 0xb5de8000, size 0x95000
-cr3: 2c794000, module loaded - libLLVM.so module_base 0xb5de8000 module_end 0xb6716000, size 0x92e000
-cr3: 2c794000, module loaded - libRS.so module_base 0xb671d000 module_end 0xb6757000, size 0x3a000
-cr3: 2c794000, module loaded - libhwui.so module_base 0xb6757000 module_end 0xb67a3000, size 0x4c000
-cr3: 2c794000, module loaded - libicuuc.so module_base 0xb67a3000 module_end 0xb68a5000, size 0x102000
-cr3: 2c794000, module loaded - libgabi++.so module_base 0xb68a9000 module_end 0xb68af000, size 0x6000
-cr3: 2c794000, module loaded - libicui18n.so module_base 0xb68af000 module_end 0xb6a06000, size 0x157000
-cr3: 2c794000, module loaded - libharfbuzz_ng.so module_base 0xb6a06000 module_end 0xb6a4e000, size 0x48000
-cr3: 2c794000, module loaded - libnetutils.so module_base 0xb6a4e000 module_end 0xb6a56000, size 0x8000
-cr3: 2c794000, module loaded - libhardware_legacy.so module_base 0xb6a55000 module_end 0xb6a5d000, size 0x8000
-cr3: 2c794000, module loaded - libexpat.so module_base 0xb6a5c000 module_end 0xb6a73000, size 0x17000
-cr3: 2c794000, module loaded - libcrypto.so module_base 0xb6a73000 module_end 0xb6b75000, size 0x102000
-cr3: 2c794000, module loaded - libhardware.so module_base 0xb6b77000 module_end 0xb6b7b000, size 0x4000
-cr3: 2c794000, module loaded - libui.so module_base 0xb6b7a000 module_end 0xb6b86000, size 0xc000
-cr3: 2c794000, module loaded - libsync.so module_base 0xb6b86000 module_end 0xb6b89000, size 0x3000
-cr3: 2c794000, module loaded - libgui.so module_base 0xb6b89000 module_end 0xb6bd8000, size 0x4f000
-cr3: 2c794000, module loaded - libcamera_metadata.so module_base 0xb6bd8000 module_end 0xb6be0000, size 0x8000
-cr3: 2c794000, module loaded - libcamera_client.so module_base 0xb6be0000 module_end 0xb6c1a000, size 0x3a000
-cr3: 2c794000, module loaded - libspeexresampler.so module_base 0xb6c1a000 module_end 0xb6c20000, size 0x6000
-cr3: 2c794000, module loaded - libaudioutils.so module_base 0xb6c20000 module_end 0xb6c26000, size 0x6000
-cr3: 2c794000, module loaded - libz.so module_base 0xb6c26000 module_end 0xb6c40000, size 0x1a000
-cr3: 2c794000, module loaded - libbinder.so module_base 0xb6c40000 module_end 0xb6c70000, size 0x30000
-cr3: 2c794000, module loaded - libandroidfw.so module_base 0xb6c70000 module_end 0xb6c98000, size 0x28000
-cr3: 2c794000, module loaded - libGLESv2.so module_base 0xb6c98000 module_end 0xb6ca3000, size 0xb000
-cr3: 2c794000, module loaded - libGLESv1_CM.so module_base 0xb6ca3000 module_end 0xb6caa000, size 0x7000
-cr3: 2c794000, module loaded - libETC1.so module_base 0xb6caa000 module_end 0xb6cae000, size 0x4000
-cr3: 2c794000, module loaded - libunwind-ptrace.so module_base 0xb6cae000 module_end 0xb6cb2000, size 0x4000
-cr3: 2c794000, module loaded - libunwind.so module_base 0xb6cb2000 module_end 0xb6cc0000, size 0xe000
-cr3: 2c794000, module loaded - libgccdemangle.so module_base 0xb6d06000 module_end 0xb6d0e000, size 0x8000
-cr3: 2c794000, module loaded - libbacktrace.so module_base 0xb6d0f000 module_end 0xb6d18000, size 0x9000
-cr3: 2c794000, module loaded - libutils.so module_base 0xb6d18000 module_end 0xb6d30000, size 0x18000
-cr3: 2c794000, module loaded - libstlport.so module_base 0xb6d30000 module_end 0xb6d6b000, size 0x3b000
-cr3: 2c794000, module loaded - libcutils.so module_base 0xb6d6b000 module_end 0xb6d79000, size 0xe000
-cr3: 2c794000, module loaded - libGLES_trace.so module_base 0xb6d79000 module_end 0xb6dea000, size 0x71000
-cr3: 2c794000, module loaded - libEGL.so module_base 0xb6de9000 module_end 0xb6e55000, size 0x6c000
-cr3: 2c794000, module loaded - libandroid_runtime.so module_base 0xb6e54000 module_end 0xb6f30000, size 0xdc000
-cr3: 2c794000, module loaded - libstdc++.so module_base 0xb6f30000 module_end 0xb6f34000, size 0x4000
-cr3: 2c794000, module loaded - libm.so module_base 0xb6f34000 module_end 0xb6f4e000, size 0x1a000
-cr3: 2c794000, module loaded - liblog.so module_base 0xb6f4e000 module_end 0xb6f55000, size 0x7000
-cr3: 2c794000, module loaded - libc.so module_base 0xb6f56000 module_end 0xb6fcc000, size 0x76000
-cr3: 2c794000, module loaded - libsigchain.so module_base 0xb6fcc000 module_end 0xb6fd0000, size 0x4000
-cr3: 2c794000, module loaded - linker module_base 0xb6fd3000 module_end 0xb6fe2000, size 0xf000
-cr3: 2c794000, module loaded - app_process32 module_base 0xb6fe3000 module_end 0xb6fe6000, size 0x3000
-cr3: 2c7d8000, module loaded - libsecmain.so module_base 0xb6e6b000 module_end 0xb6e72000, size 0x7000
-cr3: 2c7d8000, module loaded - libnetd_client.so module_base 0xb6ecd000 module_end 0xb6ed2000, size 0x5000
-cr3: 2c7d8000, module loaded - __properties__ module_base 0xb6ed1000 module_end 0xb6ef1000, size 0x20000
-cr3: 2c7d8000, module loaded - libstdc++.so module_base 0xb6ef1000 module_end 0xb6ef5000, size 0x4000
-cr3: 2c7d8000, module loaded - libm.so module_base 0xb6ef5000 module_end 0xb6f0f000, size 0x1a000
-cr3: 2c7d8000, module loaded - liblog.so module_base 0xb6f0f000 module_end 0xb6f16000, size 0x7000
-cr3: 2c7d8000, module loaded - libc.so module_base 0xb6f17000 module_end 0xb6f8d000, size 0x76000
-cr3: 2c7d8000, module loaded - libsigchain.so module_base 0xb6f8d000 module_end 0xb6f91000, size 0x4000
-cr3: 2c7d8000, module loaded - linker module_base 0xb6f94000 module_end 0xb6fa3000, size 0xf000
-cr3: 2c7d8000, module loaded - com.example.hellojni module_base 0xb6fa4000 module_end 0xb6fa6000, size 0x2000
-cr3: 2c698000, module loaded - classes.dex module_base 0xb17cc000 module_end 0xb17cd000, size 0x1000
-cr3: 2c698000, module loaded - classes.dex module_base 0xb17cb000 module_end 0xb17cc000, size 0x1000
-cr3: 2c698000, module loaded - dev/ashmem/
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fc000 module_end 0xb49ff000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f9000 module_end 0xb49fa000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f6000 module_end 0xb49f9000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f5000 module_end 0xb49f6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f2000 module_end 0xb49f5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f1000 module_end 0xb49f2000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ee000 module_end 0xb49f1000, size 0x3000
+cr3: 2c6f0000, module loaded - binder module_base 0xa7905000 module_end 0xa7925000, size 0x20000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49eb000 module_end 0xb49ec000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e8000 module_end 0xb49eb000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49e5000 module_end 0xb49e6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e2000 module_end 0xb49e5000, size 0x3000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xb49bd000 module_end 0xb4c01000, size 0x244000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e2000 module_end 0xb49e5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49e5000 module_end 0xb49e6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e8000 module_end 0xb49eb000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49eb000 module_end 0xb49ec000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ee000 module_end 0xb49f1000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f1000 module_end 0xb49f2000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f2000 module_end 0xb49f5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f5000 module_end 0xb49f6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f6000 module_end 0xb49f9000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f9000 module_end 0xb49fa000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fc000 module_end 0xb49ff000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ff000 module_end 0xb4a00000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a00000 module_end 0xb4a03000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a03000 module_end 0xb4a04000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a0c000 module_end 0xb4a0f000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a0f000 module_end 0xb4a10000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a12000 module_end 0xb4a15000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-allocspace alloc space live-bitmap 4 module_base 0xb4a17000 module_end 0xb4b12000, size 0xfb000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space mark-bitm module_base 0xb4b12000 module_end 0xb4c12000, size 0x100000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xa73e1000 module_end 0xa7625000, size 0x244000
+cr3: 2c6f0000, module loaded - Contacts.odex module_base 0xa73e0000 module_end 0xa73e1000, size 0x1000
+cr3: 2c6f0000, module loaded - Contacts.odex module_base 0xa73df000 module_end 0xa73e0000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-ElfFile reservation for /system/priv-app/Conta module_base 0xa7064000 module_end 0xa73df000, size 0x37b000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-ElfFile reservation for /system/priv-app/Conta module_base 0xa7255000 module_end 0xa75d0000, size 0x37b000
+cr3: 2c6f0000, module loaded - Contacts.odex module_base 0xa73df000 module_end 0xa73e0000, size 0x1000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xa73e1000 module_end 0xa7625000, size 0x244000
+cr3: 2c6f0000, module loaded - Contacts.odex module_base 0xa7064000 module_end 0xa7065000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-ElfFile reservation for /system/priv-app/Conta module_base 0xa73de000 module_end 0xa7759000, size 0x37b000
+cr3: 2c6f0000, module loaded - Contacts.odex module_base 0xa73df000 module_end 0xa73e0000, size 0x1000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xa73e1000 module_end 0xa7625000, size 0x244000
+cr3: 2c6f0000, module loaded - Contacts.odex module_base 0xa73df000 module_end 0xa775b000, size 0x37c000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xa73e1000 module_end 0xa7625000, size 0x244000
+cr3: 2c6f0000, module loaded - system@priv-app@Contacts@Contacts.apk@classes.dex module_base 0xb5202000 module_end 0xb557d000, size 0x37b000
+cr3: 2c6f0000, module loaded - NotoSerif-Regular.ttf module_base 0xb5203000 module_end 0xb5240000, size 0x3d000
+cr3: 2c6f0000, module loaded - system@framework@boot.oat module_base 0xb5240000 module_end 0xb8182000, size 0x2f42000
+cr3: 2c6f0000, module loaded - system@framework@boot.art module_base 0xb5242000 module_end 0xb5d5a000, size 0xb18000
+cr3: 2c6f0000, module loaded - libbacktrace_libc++.so module_base 0xb526f000 module_end 0xb5279000, size 0xa000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb5278000 module_end 0xb5279000, size 0x1000
+cr3: 2c6f0000, module loaded - __properties__ module_base 0xb527a000 module_end 0xb529a000, size 0x20000
+cr3: 2c6f0000, module loaded - libusbhost.so module_base 0xb529a000 module_end 0xb529e000, size 0x4000
+cr3: 2c6f0000, module loaded - libssl.so module_base 0xb529e000 module_end 0xb52de000, size 0x40000
+cr3: 2c6f0000, module loaded - libsqlite.so module_base 0xb52de000 module_end 0xb533e000, size 0x60000
+cr3: 2c6f0000, module loaded - libsoundtrigger.so module_base 0xb533f000 module_end 0xb534e000, size 0xf000
+cr3: 2c6f0000, module loaded - libselinux.so module_base 0xb534e000 module_end 0xb535c000, size 0xe000
+cr3: 2c6f0000, module loaded - libprocessgroup.so module_base 0xb535c000 module_end 0xb5360000, size 0x4000
+cr3: 2c6f0000, module loaded - libpdfium.so module_base 0xb5360000 module_end 0xb57a3000, size 0x443000
+cr3: 2c6f0000, module loaded - libnetd_client.so module_base 0xb57a8000 module_end 0xb57ad000, size 0x5000
+cr3: 2c6f0000, module loaded - libnativehelper.so module_base 0xb57ac000 module_end 0xb57b3000, size 0x7000
+cr3: 2c6f0000, module loaded - libnativebridge.so module_base 0xb57b3000 module_end 0xb57b7000, size 0x4000
+cr3: 2c6f0000, module loaded - libminikin.so module_base 0xb57b7000 module_end 0xb57c3000, size 0xc000
+cr3: 2c6f0000, module loaded - libmemtrack.so module_base 0xb57c3000 module_end 0xb57c6000, size 0x3000
+cr3: 2c6f0000, module loaded - libstagefright_foundation.so module_base 0xb57c6000 module_end 0xb57db000, size 0x15000
+cr3: 2c6f0000, module loaded - libsonivox.so module_base 0xb57db000 module_end 0xb582c000, size 0x51000
+cr3: 2c6f0000, module loaded - libcommon_time_client.so module_base 0xb5831000 module_end 0xb5840000, size 0xf000
+cr3: 2c6f0000, module loaded - libnbaio.so module_base 0xb5840000 module_end 0xb584a000, size 0xa000
+cr3: 2c6f0000, module loaded - libmedia.so module_base 0xb584a000 module_end 0xb58e5000, size 0x9b000
+cr3: 2c6f0000, module loaded - libinputflinger.so module_base 0xb58e5000 module_end 0xb5921000, size 0x3c000
+cr3: 2c6f0000, module loaded - libinput.so module_base 0xb5921000 module_end 0xb593c000, size 0x1b000
+cr3: 2c6f0000, module loaded - libimg_utils.so module_base 0xb593c000 module_end 0xb594b000, size 0xf000
+cr3: 2c6f0000, module loaded - libjpeg.so module_base 0xb594c000 module_end 0xb5978000, size 0x2c000
+cr3: 2c6f0000, module loaded - libskia.so module_base 0xb5978000 module_end 0xb5b9b000, size 0x223000
+cr3: 2c6f0000, module loaded - libRScpp.so module_base 0xb5ba0000 module_end 0xb5bbd000, size 0x1d000
+cr3: 2c6f0000, module loaded - libpng.so module_base 0xb5bbd000 module_end 0xb5be5000, size 0x28000
+cr3: 2c6f0000, module loaded - libft2.so module_base 0xb5be5000 module_end 0xb5c3f000, size 0x5a000
+cr3: 2c6f0000, module loaded - libbcinfo.so module_base 0xb5c3f000 module_end 0xb5c8a000, size 0x4b000
+cr3: 2c6f0000, module loaded - libbcc.so module_base 0xb5c8a000 module_end 0xb5cb0000, size 0x26000
+cr3: 2c6f0000, module loaded - libc++.so module_base 0xb5cd0000 module_end 0xb5d65000, size 0x95000
+cr3: 2c6f0000, module loaded - libLLVM.so module_base 0xb5d65000 module_end 0xb6693000, size 0x92e000
+cr3: 2c6f0000, module loaded - libRS.so module_base 0xb669a000 module_end 0xb66d4000, size 0x3a000
+cr3: 2c6f0000, module loaded - libhwui.so module_base 0xb66d4000 module_end 0xb6720000, size 0x4c000
+cr3: 2c6f0000, module loaded - libicuuc.so module_base 0xb6720000 module_end 0xb6822000, size 0x102000
+cr3: 2c6f0000, module loaded - libgabi++.so module_base 0xb6826000 module_end 0xb682c000, size 0x6000
+cr3: 2c6f0000, module loaded - libicui18n.so module_base 0xb682c000 module_end 0xb6983000, size 0x157000
+cr3: 2c6f0000, module loaded - libharfbuzz_ng.so module_base 0xb6983000 module_end 0xb69cb000, size 0x48000
+cr3: 2c6f0000, module loaded - libnetutils.so module_base 0xb69cb000 module_end 0xb69d3000, size 0x8000
+cr3: 2c6f0000, module loaded - libhardware_legacy.so module_base 0xb69d2000 module_end 0xb69da000, size 0x8000
+cr3: 2c6f0000, module loaded - libexpat.so module_base 0xb69d9000 module_end 0xb69f0000, size 0x17000
+cr3: 2c6f0000, module loaded - libcrypto.so module_base 0xb69f0000 module_end 0xb6af2000, size 0x102000
+cr3: 2c6f0000, module loaded - libhardware.so module_base 0xb6af4000 module_end 0xb6af8000, size 0x4000
+cr3: 2c6f0000, module loaded - libui.so module_base 0xb6af7000 module_end 0xb6b03000, size 0xc000
+cr3: 2c6f0000, module loaded - libsync.so module_base 0xb6b03000 module_end 0xb6b06000, size 0x3000
+cr3: 2c6f0000, module loaded - libgui.so module_base 0xb6b06000 module_end 0xb6b55000, size 0x4f000
+cr3: 2c6f0000, module loaded - libcamera_metadata.so module_base 0xb6b55000 module_end 0xb6b5d000, size 0x8000
+cr3: 2c6f0000, module loaded - libcamera_client.so module_base 0xb6b5d000 module_end 0xb6b97000, size 0x3a000
+cr3: 2c6f0000, module loaded - libspeexresampler.so module_base 0xb6b97000 module_end 0xb6b9d000, size 0x6000
+cr3: 2c6f0000, module loaded - libaudioutils.so module_base 0xb6b9d000 module_end 0xb6ba3000, size 0x6000
+cr3: 2c6f0000, module loaded - libz.so module_base 0xb6ba3000 module_end 0xb6bbd000, size 0x1a000
+cr3: 2c6f0000, module loaded - libbinder.so module_base 0xb6bbd000 module_end 0xb6bed000, size 0x30000
+cr3: 2c6f0000, module loaded - libandroidfw.so module_base 0xb6bed000 module_end 0xb6c15000, size 0x28000
+cr3: 2c6f0000, module loaded - libGLESv2.so module_base 0xb6c15000 module_end 0xb6c20000, size 0xb000
+cr3: 2c6f0000, module loaded - libGLESv1_CM.so module_base 0xb6c20000 module_end 0xb6c27000, size 0x7000
+cr3: 2c6f0000, module loaded - libETC1.so module_base 0xb6c27000 module_end 0xb6c2b000, size 0x4000
+cr3: 2c6f0000, module loaded - libunwind-ptrace.so module_base 0xb6c2b000 module_end 0xb6c2f000, size 0x4000
+cr3: 2c6f0000, module loaded - libunwind.so module_base 0xb6c2f000 module_end 0xb6c3d000, size 0xe000
+cr3: 2c6f0000, module loaded - libgccdemangle.so module_base 0xb6c83000 module_end 0xb6c8b000, size 0x8000
+cr3: 2c6f0000, module loaded - libbacktrace.so module_base 0xb6c8c000 module_end 0xb6c95000, size 0x9000
+cr3: 2c6f0000, module loaded - libutils.so module_base 0xb6c95000 module_end 0xb6cad000, size 0x18000
+cr3: 2c6f0000, module loaded - libstlport.so module_base 0xb6cad000 module_end 0xb6ce8000, size 0x3b000
+cr3: 2c6f0000, module loaded - libcutils.so module_base 0xb6ce8000 module_end 0xb6cf6000, size 0xe000
+cr3: 2c6f0000, module loaded - libGLES_trace.so module_base 0xb6cf6000 module_end 0xb6d67000, size 0x71000
+cr3: 2c6f0000, module loaded - libEGL.so module_base 0xb6d66000 module_end 0xb6dd2000, size 0x6c000
+cr3: 2c6f0000, module loaded - libandroid_runtime.so module_base 0xb6dd1000 module_end 0xb6ead000, size 0xdc000
+cr3: 2c6f0000, module loaded - libstdc++.so module_base 0xb6ead000 module_end 0xb6eb1000, size 0x4000
+cr3: 2c6f0000, module loaded - libm.so module_base 0xb6eb1000 module_end 0xb6ecb000, size 0x1a000
+cr3: 2c6f0000, module loaded - liblog.so module_base 0xb6ecb000 module_end 0xb6ed2000, size 0x7000
+cr3: 2c6f0000, module loaded - libc.so module_base 0xb6ed3000 module_end 0xb6f49000, size 0x76000
+cr3: 2c6f0000, module loaded - libsigchain.so module_base 0xb6f49000 module_end 0xb6f4d000, size 0x4000
+cr3: 2c6f0000, module loaded - linker module_base 0xb6f50000 module_end 0xb6f5f000, size 0xf000
+cr3: 2c6f0000, module loaded - app_process32 module_base 0xb6f60000 module_end 0xb6f63000, size 0x3000
+cr3: 2c6f0000, module loaded - system@priv-app@Contacts@Contacts.apk@classes.dex module_base 0xb5200000 module_end 0xb557b000, size 0x37b000
+cr3: 2c6f0000, module loaded - NotoSerif-Regular.ttf module_base 0xb5203000 module_end 0xb5240000, size 0x3d000
+cr3: 2c6f0000, module loaded - system@framework@boot.oat module_base 0xb5240000 module_end 0xb8182000, size 0x2f42000
+cr3: 2c6f0000, module loaded - system@framework@boot.art module_base 0xb5242000 module_end 0xb5d5a000, size 0xb18000
+cr3: 2c6f0000, module loaded - libbacktrace_libc++.so module_base 0xb526f000 module_end 0xb5279000, size 0xa000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb5278000 module_end 0xb5279000, size 0x1000
+cr3: 2c6f0000, module loaded - __properties__ module_base 0xb527a000 module_end 0xb529a000, size 0x20000
+cr3: 2c6f0000, module loaded - libusbhost.so module_base 0xb529a000 module_end 0xb529e000, size 0x4000
+cr3: 2c6f0000, module loaded - libssl.so module_base 0xb529e000 module_end 0xb52de000, size 0x40000
+cr3: 2c6f0000, module loaded - libsqlite.so module_base 0xb52de000 module_end 0xb533e000, size 0x60000
+cr3: 2c6f0000, module loaded - libsoundtrigger.so module_base 0xb533f000 module_end 0xb534e000, size 0xf000
+cr3: 2c6f0000, module loaded - libselinux.so module_base 0xb534e000 module_end 0xb535c000, size 0xe000
+cr3: 2c6f0000, module loaded - libprocessgroup.so module_base 0xb535c000 module_end 0xb5360000, size 0x4000
+cr3: 2c6f0000, module loaded - libpdfium.so module_base 0xb5360000 module_end 0xb57a3000, size 0x443000
+cr3: 2c6f0000, module loaded - libnetd_client.so module_base 0xb57a8000 module_end 0xb57ad000, size 0x5000
+cr3: 2c6f0000, module loaded - libnativehelper.so module_base 0xb57ac000 module_end 0xb57b3000, size 0x7000
+cr3: 2c6f0000, module loaded - libnativebridge.so module_base 0xb57b3000 module_end 0xb57b7000, size 0x4000
+cr3: 2c6f0000, module loaded - libminikin.so module_base 0xb57b7000 module_end 0xb57c3000, size 0xc000
+cr3: 2c6f0000, module loaded - libmemtrack.so module_base 0xb57c3000 module_end 0xb57c6000, size 0x3000
+cr3: 2c6f0000, module loaded - libstagefright_foundation.so module_base 0xb57c6000 module_end 0xb57db000, size 0x15000
+cr3: 2c6f0000, module loaded - libsonivox.so module_base 0xb57db000 module_end 0xb582c000, size 0x51000
+cr3: 2c6f0000, module loaded - libcommon_time_client.so module_base 0xb5831000 module_end 0xb5840000, size 0xf000
+cr3: 2c6f0000, module loaded - libnbaio.so module_base 0xb5840000 module_end 0xb584a000, size 0xa000
+cr3: 2c6f0000, module loaded - libmedia.so module_base 0xb584a000 module_end 0xb58e5000, size 0x9b000
+cr3: 2c6f0000, module loaded - libinputflinger.so module_base 0xb58e5000 module_end 0xb5921000, size 0x3c000
+cr3: 2c6f0000, module loaded - libinput.so module_base 0xb5921000 module_end 0xb593c000, size 0x1b000
+cr3: 2c6f0000, module loaded - libimg_utils.so module_base 0xb593c000 module_end 0xb594b000, size 0xf000
+cr3: 2c6f0000, module loaded - libjpeg.so module_base 0xb594c000 module_end 0xb5978000, size 0x2c000
+cr3: 2c6f0000, module loaded - libskia.so module_base 0xb5978000 module_end 0xb5b9b000, size 0x223000
+cr3: 2c6f0000, module loaded - libRScpp.so module_base 0xb5ba0000 module_end 0xb5bbd000, size 0x1d000
+cr3: 2c6f0000, module loaded - libpng.so module_base 0xb5bbd000 module_end 0xb5be5000, size 0x28000
+cr3: 2c6f0000, module loaded - libft2.so module_base 0xb5be5000 module_end 0xb5c3f000, size 0x5a000
+cr3: 2c6f0000, module loaded - libbcinfo.so module_base 0xb5c3f000 module_end 0xb5c8a000, size 0x4b000
+cr3: 2c6f0000, module loaded - libbcc.so module_base 0xb5c8a000 module_end 0xb5cb0000, size 0x26000
+cr3: 2c6f0000, module loaded - libc++.so module_base 0xb5cd0000 module_end 0xb5d65000, size 0x95000
+cr3: 2c6f0000, module loaded - libLLVM.so module_base 0xb5d65000 module_end 0xb6693000, size 0x92e000
+cr3: 2c6f0000, module loaded - libRS.so module_base 0xb669a000 module_end 0xb66d4000, size 0x3a000
+cr3: 2c6f0000, module loaded - libhwui.so module_base 0xb66d4000 module_end 0xb6720000, size 0x4c000
+cr3: 2c6f0000, module loaded - libicuuc.so module_base 0xb6720000 module_end 0xb6822000, size 0x102000
+cr3: 2c6f0000, module loaded - libgabi++.so module_base 0xb6826000 module_end 0xb682c000, size 0x6000
+cr3: 2c6f0000, module loaded - libicui18n.so module_base 0xb682c000 module_end 0xb6983000, size 0x157000
+cr3: 2c6f0000, module loaded - libharfbuzz_ng.so module_base 0xb6983000 module_end 0xb69cb000, size 0x48000
+cr3: 2c6f0000, module loaded - libnetutils.so module_base 0xb69cb000 module_end 0xb69d3000, size 0x8000
+cr3: 2c6f0000, module loaded - libhardware_legacy.so module_base 0xb69d2000 module_end 0xb69da000, size 0x8000
+cr3: 2c6f0000, module loaded - libexpat.so module_base 0xb69d9000 module_end 0xb69f0000, size 0x17000
+cr3: 2c6f0000, module loaded - libcrypto.so module_base 0xb69f0000 module_end 0xb6af2000, size 0x102000
+cr3: 2c6f0000, module loaded - libhardware.so module_base 0xb6af4000 module_end 0xb6af8000, size 0x4000
+cr3: 2c6f0000, module loaded - libui.so module_base 0xb6af7000 module_end 0xb6b03000, size 0xc000
+cr3: 2c6f0000, module loaded - libsync.so module_base 0xb6b03000 module_end 0xb6b06000, size 0x3000
+cr3: 2c6f0000, module loaded - libgui.so module_base 0xb6b06000 module_end 0xb6b55000, size 0x4f000
+cr3: 2c6f0000, module loaded - libcamera_metadata.so module_base 0xb6b55000 module_end 0xb6b5d000, size 0x8000
+cr3: 2c6f0000, module loaded - libcamera_client.so module_base 0xb6b5d000 module_end 0xb6b97000, size 0x3a000
+cr3: 2c6f0000, module loaded - libspeexresampler.so module_base 0xb6b97000 module_end 0xb6b9d000, size 0x6000
+cr3: 2c6f0000, module loaded - libaudioutils.so module_base 0xb6b9d000 module_end 0xb6ba3000, size 0x6000
+cr3: 2c6f0000, module loaded - libz.so module_base 0xb6ba3000 module_end 0xb6bbd000, size 0x1a000
+cr3: 2c6f0000, module loaded - libbinder.so module_base 0xb6bbd000 module_end 0xb6bed000, size 0x30000
+cr3: 2c6f0000, module loaded - libandroidfw.so module_base 0xb6bed000 module_end 0xb6c15000, size 0x28000
+cr3: 2c6f0000, module loaded - libGLESv2.so module_base 0xb6c15000 module_end 0xb6c20000, size 0xb000
+cr3: 2c6f0000, module loaded - libGLESv1_CM.so module_base 0xb6c20000 module_end 0xb6c27000, size 0x7000
+cr3: 2c6f0000, module loaded - libETC1.so module_base 0xb6c27000 module_end 0xb6c2b000, size 0x4000
+cr3: 2c6f0000, module loaded - libunwind-ptrace.so module_base 0xb6c2b000 module_end 0xb6c2f000, size 0x4000
+cr3: 2c6f0000, module loaded - libunwind.so module_base 0xb6c2f000 module_end 0xb6c3d000, size 0xe000
+cr3: 2c6f0000, module loaded - libgccdemangle.so module_base 0xb6c83000 module_end 0xb6c8b000, size 0x8000
+cr3: 2c6f0000, module loaded - libbacktrace.so module_base 0xb6c8c000 module_end 0xb6c95000, size 0x9000
+cr3: 2c6f0000, module loaded - libutils.so module_base 0xb6c95000 module_end 0xb6cad000, size 0x18000
+cr3: 2c6f0000, module loaded - libstlport.so module_base 0xb6cad000 module_end 0xb6ce8000, size 0x3b000
+cr3: 2c6f0000, module loaded - libcutils.so module_base 0xb6ce8000 module_end 0xb6cf6000, size 0xe000
+cr3: 2c6f0000, module loaded - libGLES_trace.so module_base 0xb6cf6000 module_end 0xb6d67000, size 0x71000
+cr3: 2c6f0000, module loaded - libEGL.so module_base 0xb6d66000 module_end 0xb6dd2000, size 0x6c000
+cr3: 2c6f0000, module loaded - libandroid_runtime.so module_base 0xb6dd1000 module_end 0xb6ead000, size 0xdc000
+cr3: 2c6f0000, module loaded - libstdc++.so module_base 0xb6ead000 module_end 0xb6eb1000, size 0x4000
+cr3: 2c6f0000, module loaded - libm.so module_base 0xb6eb1000 module_end 0xb6ecb000, size 0x1a000
+cr3: 2c6f0000, module loaded - liblog.so module_base 0xb6ecb000 module_end 0xb6ed2000, size 0x7000
+cr3: 2c6f0000, module loaded - libc.so module_base 0xb6ed3000 module_end 0xb6f49000, size 0x76000
+cr3: 2c6f0000, module loaded - libsigchain.so module_base 0xb6f49000 module_end 0xb6f4d000, size 0x4000
+cr3: 2c6f0000, module loaded - linker module_base 0xb6f50000 module_end 0xb6f5f000, size 0xf000
+cr3: 2c6f0000, module loaded - app_process32 module_base 0xb6f60000 module_end 0xb6f63000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-ElfFile reservation for /data/dalvik-cache/armon for /data/dalvik-cache/arm/system@priv-app@Contacts@Contacts module_base 0xa7066000 module_end 0xa73e1000, size 0x37b000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-ElfFile reservation for /data/dalvik-cache/armon for /data/dalvik-cache/arm/system@priv-app@Contacts@Contacts module_base 0xa7257000 module_end 0xa75d2000, size 0x37b000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xa73e1000 module_end 0xa7625000, size 0x244000
+cr3: 2c6f0000, module loaded - system@priv-app@Contacts@Contacts.apk@classes.dex module_base 0xa7066000 module_end 0xa73e1000, size 0x37b000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-ElfFile reservation for /data/dalvik-cache/armon for /data/dalvik-cache/arm/system@priv-app@Contacts@Contacts module_base 0xa7257000 module_end 0xa75d2000, size 0x37b000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xa73e1000 module_end 0xa7625000, size 0x244000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-ElfFile reservation for /data/dalvik-cache/armon for /data/dalvik-cache/arm/system@priv-app@Contacts@Contacts module_base 0xa73e0000 module_end 0xa775b000, size 0x37b000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xa73e1000 module_end 0xa7625000, size 0x244000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ba000 module_end 0xb49bb000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49b7000 module_end 0xb49ba000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49b4000 module_end 0xb49b5000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49b1000 module_end 0xb49b4000, size 0x3000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xb49b5000 module_end 0xb4bf9000, size 0x244000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49b7000 module_end 0xb49ba000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ba000 module_end 0xb49bb000, size 0x1000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xb49bd000 module_end 0xb4c01000, size 0x244000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e2000 module_end 0xb49e5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49e5000 module_end 0xb49e6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e8000 module_end 0xb49eb000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49eb000 module_end 0xb49ec000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ee000 module_end 0xb49f1000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f1000 module_end 0xb49f2000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f2000 module_end 0xb49f5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f5000 module_end 0xb49f6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f6000 module_end 0xb49f9000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f9000 module_end 0xb49fa000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fc000 module_end 0xb49ff000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ff000 module_end 0xb4a00000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a00000 module_end 0xb4a03000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a03000 module_end 0xb4a04000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a0c000 module_end 0xb4a0f000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a0f000 module_end 0xb4a10000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a12000 module_end 0xb4a15000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-allocspace alloc space live-bitmap 4 module_base 0xb4a17000 module_end 0xb4b12000, size 0xfb000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space mark-bitm module_base 0xb4b12000 module_end 0xb4c12000, size 0x100000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b1000 module_end 0xb49b5000, size 0x4000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xb49b6000 module_end 0xb4bfa000, size 0x244000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49b7000 module_end 0xb49ba000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ba000 module_end 0xb49bb000, size 0x1000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xb49bd000 module_end 0xb4c01000, size 0x244000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e2000 module_end 0xb49e5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49e5000 module_end 0xb49e6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e8000 module_end 0xb49eb000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49eb000 module_end 0xb49ec000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ee000 module_end 0xb49f1000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f1000 module_end 0xb49f2000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f2000 module_end 0xb49f5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f5000 module_end 0xb49f6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f6000 module_end 0xb49f9000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f9000 module_end 0xb49fa000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fc000 module_end 0xb49ff000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ff000 module_end 0xb4a00000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a00000 module_end 0xb4a03000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a03000 module_end 0xb4a04000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a0c000 module_end 0xb4a0f000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a0f000 module_end 0xb4a10000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a12000 module_end 0xb4a15000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-allocspace alloc space live-bitmap 4 module_base 0xb4a17000 module_end 0xb4b12000, size 0xfb000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space mark-bitm module_base 0xb4b12000 module_end 0xb4c12000, size 0x100000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb5202000 module_end 0xb5203000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ae000 module_end 0xb49b1000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ab000 module_end 0xb49ac000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49a8000 module_end 0xb49ab000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49a3000 module_end 0xb49a8000, size 0x5000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb499e000 module_end 0xb49a3000, size 0x5000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xb49ad000 module_end 0xb4bf1000, size 0x244000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ae000 module_end 0xb49b1000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b1000 module_end 0xb49b5000, size 0x4000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49b7000 module_end 0xb49ba000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ba000 module_end 0xb49bb000, size 0x1000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xb49bd000 module_end 0xb4c01000, size 0x244000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e2000 module_end 0xb49e5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49e5000 module_end 0xb49e6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e8000 module_end 0xb49eb000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49eb000 module_end 0xb49ec000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ee000 module_end 0xb49f1000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f1000 module_end 0xb49f2000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f2000 module_end 0xb49f5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f5000 module_end 0xb49f6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49f6000 module_end 0xb49f9000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49f9000 module_end 0xb49fa000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49fc000 module_end 0xb49ff000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ff000 module_end 0xb4a00000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a00000 module_end 0xb4a03000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a03000 module_end 0xb4a04000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a0c000 module_end 0xb4a0f000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb4a0f000 module_end 0xb4a10000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb4a12000 module_end 0xb4a15000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-allocspace alloc space live-bitmap 4 module_base 0xb4a17000 module_end 0xb4b12000, size 0xfb000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-allocspace zygote / non moving space mark-bitm module_base 0xb4b12000 module_end 0xb4c12000, size 0x100000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ab000 module_end 0xb49ac000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49a8000 module_end 0xb49ab000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/CursorWindow: /data/user/0/com.android.providers.cont/0/com.android.providers.contacts/databases/contacts2.db module_base 0xa6b5a000 module_end 0xa6d5a000, size 0x200000
+cr3: 2c6f0000, module loaded - dev/ashmem/CursorWindow: /data/user/0/com.android.providers.cont module_base 0xa6800000 module_end 0xa6a00000, size 0x200000
+cr3: 2c6f0000, module loaded - dev/ashmem/CursorWindow: /data/user/0/com.android.providers.cont/0/com.android.providers.contacts/databases/contacts2.db module_base 0xa6800000 module_end 0xa6a00000, size 0x200000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49a5000 module_end 0xb49a6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49a2000 module_end 0xb49a5000, size 0x3000
+cr3: 2c6f0000, module loaded - gralloc.goldfish.so module_base 0xb49a1000 module_end 0xb49a7000, size 0x6000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49a2000 module_end 0xb49a5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49a5000 module_end 0xb49a6000, size 0x1000
+cr3: 2c6f0000, module loaded - gralloc.goldfish.so module_base 0xb499c000 module_end 0xb49a2000, size 0x6000
+cr3: 2c6f0000, module loaded - libGLESv1_enc.so module_base 0xb499a000 module_end 0xb49bc000, size 0x22000
+cr3: 2c6f0000, module loaded - gralloc.goldfish.so module_base 0xb499c000 module_end 0xb49a2000, size 0x6000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49a2000 module_end 0xb49a5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49a5000 module_end 0xb49a6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49a8000 module_end 0xb49ab000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ab000 module_end 0xb49ac000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ae000 module_end 0xb49b1000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b1000 module_end 0xb49b5000, size 0x4000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49b7000 module_end 0xb49ba000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ba000 module_end 0xb49bb000, size 0x1000
+cr3: 2c6f0000, module loaded - libGLESv1_enc.so module_base 0xb1be7000 module_end 0xb1c09000, size 0x22000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-allocspace alloc space mark-bitmap 4 module_base 0xb1c08000 module_end 0xb1d03000, size 0xfb000
+cr3: 2c6f0000, module loaded - libGLESv2_enc.so module_base 0xb499a000 module_end 0xb49b5000, size 0x1b000
+cr3: 2c6f0000, module loaded - gralloc.goldfish.so module_base 0xb499c000 module_end 0xb49a2000, size 0x6000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49a2000 module_end 0xb49a5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49a5000 module_end 0xb49a6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49a8000 module_end 0xb49ab000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ab000 module_end 0xb49ac000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ae000 module_end 0xb49b1000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b1000 module_end 0xb49b5000, size 0x4000
+cr3: 2c6f0000, module loaded - libGLESv2_enc.so module_base 0xb1bcc000 module_end 0xb1be7000, size 0x1b000
+cr3: 2c6f0000, module loaded - libOpenglSystemCommon.so module_base 0xb499a000 module_end 0xb499e000, size 0x4000
+cr3: 2c6f0000, module loaded - gralloc.goldfish.so module_base 0xb499c000 module_end 0xb49a2000, size 0x6000
+cr3: 2c6f0000, module loaded - libOpenglSystemCommon.so module_base 0xb4996000 module_end 0xb499a000, size 0x4000
+cr3: 2c6f0000, module loaded - lib_renderControl_enc.so module_base 0xb4995000 module_end 0xb499b000, size 0x6000
+cr3: 2c6f0000, module loaded - libOpenglSystemCommon.so module_base 0xb4996000 module_end 0xb499b000, size 0x5000
+cr3: 2c6f0000, module loaded - lib_renderControl_enc.so module_base 0xb498f000 module_end 0xb4995000, size 0x6000
+cr3: 2c6f0000, module loaded - gralloc.default.so module_base 0xb49a1000 module_end 0xb49a6000, size 0x5000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49a2000 module_end 0xb49a5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49a5000 module_end 0xb49a6000, size 0x1000
+cr3: 2c6f0000, module loaded - gralloc.default.so module_base 0xb1bc8000 module_end 0xb1bcd000, size 0x5000
+cr3: 2c6f0000, module loaded - libGLESv2_enc.so module_base 0xb1bcc000 module_end 0xb1be7000, size 0x1b000
+cr3: 2c6f0000, module loaded - dev/ashmem/gralloc-buffer module_base 0xa6666000 module_end 0xa66fc000, size 0x96000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xb49a1000 module_end 0xb4be5000, size 0x244000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49a2000 module_end 0xb49a5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49a5000 module_end 0xb49a6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49a8000 module_end 0xb49ab000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ab000 module_end 0xb49ac000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49ae000 module_end 0xb49b1000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-large object space allocation module_base 0xb49b1000 module_end 0xb49b5000, size 0x4000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49b7000 module_end 0xb49ba000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49ba000 module_end 0xb49bb000, size 0x1000
+cr3: 2c6f0000, module loaded - Contacts.apk module_base 0xb49bd000 module_end 0xb4c01000, size 0x244000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e2000 module_end 0xb49e5000, size 0x3000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table module_base 0xb49e5000 module_end 0xb49e6000, size 0x1000
+cr3: 2c6f0000, module loaded - dev/ashmem/dalvik-indirect ref table slots module_base 0xb49e8000 module_end 0xb49eb000, size 0x3000
+cr

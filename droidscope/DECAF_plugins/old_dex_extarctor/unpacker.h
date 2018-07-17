@@ -90,8 +90,8 @@ static char actualname[512];
 static char dir_name[] = "/tmp/XXXXXX";
 static std::string temp_dir_name;
 
-static std::string dumps_dir = "/home/yduan/yueduan/android-5.0.0_r3/external/droidscope_art_alternate/DECAF_plugins/old_dex_extarctor/out/";
-static std::string json_path = "/home/yduan/yueduan/android-5.0.0_r3/external/droidscope_art_alternate/DECAF_plugins/old_dex_extarctor/out/stats.json";
+static std::string dumps_dir = "/home/developer/android_source/external/droidscope/DECAF_plugins/old_dex_extarctor/out/";
+static std::string json_path = "/home/developer/android_source/external/droidscope/DECAF_plugins/old_dex_extarctor/out/stats.json";
 
 static target_ulong base, targetpid = 0;
 static target_ulong targetcr3 = 0;
@@ -265,6 +265,7 @@ void setInJson(std::string str, std::string val)
   	j3[str] = newVal;
   	std::string s = j3.dump(0);
   	save_string(s, json_path);
+    std::cout << "end of setInJson ";
 }
 
 std::string getValFromJson(std::string str)

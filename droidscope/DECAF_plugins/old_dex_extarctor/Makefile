@@ -10,8 +10,8 @@ ART_SHLIB_32=$(SRC_PATH)/../../out/host/linux-x86/lib/libart.so
 ART_SHLIB_64=$(SRC_PATH)/../../out/host/linux-x86/lib64/libart.so
 CPP_SHLIB_64=$(SRC_PATH)/../../out/host/linux-x86/lib64/libc++.so
 
-CC=clang-3.7
-CPP=clang++-3.7
+CC=gcc
+CPP=g++
 CFLAGS=-O2 -g -fPIC  -m64 `pkg-config --cflags glib-2.0` -fpermissive
 
 CXXFLAGS=-O2 -g -fPIC  -m64 `pkg-config --cflags glib-2.0` -fpermissive -nostdinc++ -std=c++11
@@ -30,6 +30,14 @@ qemu-tools:
 decaf:
 	make -C $(TARGET_DIR) all
 
+%.o: %.c
+	$(CC) $(CFLAGS) $(DEFINES) -c -o $@ $<
+
+%.o: %.cpp
+	$(CPP) $(CXXFLAGS) $(DEFINES) -c -o $@ $<
+
+%.o: %.cc
+	$(CPP) $(CXXFLAGS) $(DEFINES) -c -o $@ $<
 
 libartt: $(ART_SHLIB_64)
 
@@ -40,10 +48,10 @@ libunpacker-static.so: $(OBJS)
 	$(CPP) -static-libgcc -Wl,-static $(LDFLAGS) $^ -o $@ $(LIBS)
 
 clean:
-	rm -f *.d *.so *.a *~ $(PLUGIN)
+	rm -f *.o *.d *.so *.a *~ $(PLUGIN)
 
 realclean:
-	rm -f *.d *.so *.a *~ $(PLUGIN) config-plugin.h config-plugin.mak
+	rm -f *.o *.d *.so *.a *~ $(PLUGIN) config-plugin.h config-plugin.mak
 
 # Include automatically generated dependency files
 -include $(wildcard *.d)
