@@ -1,0 +1,29 @@
+URL:http://code.google.com/p/googletest/downloads/list
+Version: 1.7.0
+
+
+
+TODO: turn this into a script!
+
+
+Added Android.mk, src/Android.mk and test/Android.mk files.
+
+Removed non Android build files:
+ rm -f Makefile.in
+ rm -f Makefile.am
+ rm -f aclocal.m4
+ rm -f CMakeLists.txt
+ rm -f configure*
+ rm -rf build-aux/
+ rm -rf codegear/
+ rm -rf m4/
+ rm -rf make/
+ rm -rf msvc/
+ rm -rf samples/
+ rm -rf scripts/
+ rm -rf scons/
+ rm -rf xcode/
+ rm -rf cmake/
+ rm -rf fused-src/
+
+TODO: fix /sdcard path in test/gtest-filepath_test.cc.

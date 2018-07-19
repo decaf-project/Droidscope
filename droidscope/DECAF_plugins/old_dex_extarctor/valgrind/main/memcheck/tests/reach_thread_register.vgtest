@@ -1,2 +1,0 @@
-prog: reach_thread_register
-vgopts: -q --leak-check=full --show-leak-kinds=definite
