@@ -30,6 +30,6 @@ eg. command `ps` to list the running process
 ### 1. Build unpacker
 `./condigure --decaf-path=/<PATH_TO_DROIDSCOPE>/ --target=android` then `make`
 ### 2. Load DroidUnpack in Droidscope
-`load_plugin DECAF_plugin/old/old_dex_extarctor/libunpacker.so`  
+`load_plugin DECAF_plugin/DroidUnpack/libunpacker.so`  
 ### 3. Run cmd
 `do_hookapitests procname`
