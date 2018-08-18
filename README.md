@@ -11,25 +11,25 @@ A docker file to build droidscope environment
 ## Steps to run Droidscope in docker:
 ### 1.Build the docker image
 `docker build --network=host -t droidscope /path/to/the/dockerfile`
-### 2.search the created image:
+### 2.Search the created image:
 `sudo docker image ls`
 and copy that IMAGE ID
-### 3.start the docker image:
+### 3.Start the docker image:
 `sudo docker run -it -e DISPLAY -v /PATH/TO/EXTERNAL:/home/developer/android_source/external -v /PATH/TO/PREBUILTS:/home/developer/android_source/prebuilts -v /PATH/TO/OUT:/home/developer/android_source/out -v /PATH/TO/IMAGE:/home/developer/images -v /tmp/.X11-unix:/tmp/.X11-unix -v $HOME/.Xauthority:/home/developer/.Xauthority --net=host IMAGE_ID`
-### 4. build droidscope  
+### 4.Build Droidscope  
 `cp -a /home/developer/Droidscope/droidscope/ /home/developer/android_source/external/`  
-`cd /home/developer/android_source/external/droidscope/`
+`cd /home/developer/android_source/external/droidscope/`  
 `sudo ./android-configure.sh`  
 `sudo make -j4`  
 
-### 5.start droidscope in docker container:
+### 5.Start Droidscope in docker container:
 `./startDroidScope.sh`
-### 6. use `tab` to list the supported commands  
+### 6.Use `tab` to list the supported commands  
 eg. command `ps` to list the running process
 ## Steps to use DroidUnpack
-### 1. build unpacker
+### 1. Build unpacker
 `./condigure --decaf-path=/<PATH_TO_DROIDSCOPE>/ --target=android` then `make`
-### 1. load DroidUnpack in Droidscope
+### 2. Load DroidUnpack in Droidscope
 `load_plugin DECAF_plugin/old/old_dex_extarctor/libunpacker.so`  
-### 2. run cmd
+### 3. Run cmd
 `do_hookapitests procname`
