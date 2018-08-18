@@ -40,5 +40,5 @@ RUN mkdir -p /home/developer/android_source/out
 RUN mkdir -p /home/developer/images
 
 WORKDIR /home/developer/
-RUN sudo git clone https://github.com/enlighten5/Droidscope.git
+RUN sudo git clone https://github.com/bitsecurerlab/Droidscope.git
 
