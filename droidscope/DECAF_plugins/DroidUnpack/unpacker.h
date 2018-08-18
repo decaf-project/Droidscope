@@ -89,8 +89,8 @@ static char actualname[512];
 static char dir_name[] = "/tmp/XXXXXX";
 static std::string temp_dir_name;
 
-static std::string dumps_dir = "/home/developer/Droidscope/droidscope/DECAF_plugins/old_dex_extarctor/out/";
-static std::string json_path = "/home/developer/Droidscope/droidscope/DECAF_plugins/old_dex_extarctor/out/stats.json";
+static std::string dumps_dir = "/home/developer/android_source/external/droidscope/DECAF_plugins/DroidUnpack/out/";
+static std::string json_path = "/home/developer/android_source/external/droidscope/DECAF_plugins/DroidUnpack/out/stats.json";
 
 static target_ulong base, targetpid = 0;
 static target_ulong targetcr3 = 0;

@@ -34,9 +34,11 @@ RUN export uid=1000 gid=1000 && \
 USER developer
 ENV HOME /home/developer
 RUN mkdir -p /home/developer/android_source
+RUN mkdir -p /home/developer/android_source/external
+RUN mkdir -p /home/developer/android_source/prebuilts
+RUN mkdir -p /home/developer/android_source/out
 RUN mkdir -p /home/developer/images
 
-WORKDIR /home/developer
+WORKDIR /home/developer/
 RUN sudo git clone https://github.com/enlighten5/Droidscope.git
 
-WORKDIR /home/developer/Droidscope/droidscope
