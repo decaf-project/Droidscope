@@ -7,6 +7,13 @@ A docker file to build droidscope environment
 * Please find more instructions here:  
 * https://source.android.com/setup/build/downloading  
  https://github.com/enlighten5/android_build  
+## Dependencies needed by Droidscope  
+Please download the dependencies at first via:  
+`wget https://cluster.hpcc.ucr.edu/~zqi020/file_for_unpack/external.tar.gz`  
+`wget https://cluster.hpcc.ucr.edu/~zqi020/file_for_unpack/images.tar.gz`  
+`wget https://cluster.hpcc.ucr.edu/~zqi020/file_for_unpack/prebuilts.tar.gz`  
+`wget https://cluster.hpcc.ucr.edu/~zqi020/files/out.tar.gz`  
+Then use `tar -xvf`  to extract those files, which are needed in step 3  
 
 ## Steps to run Droidscope in docker:
 ### 1.Build the docker image
