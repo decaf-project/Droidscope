@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/zhenxiao/source/external/droidscope_art_alternate/DECAF_shared/sleuthkit64/lib'
+libdir='/home/developer/android_source/external/droidscope/DECAF_shared/sleuthkit64/lib'

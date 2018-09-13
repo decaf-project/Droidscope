@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
-my $BIN_DIR="/home/zhenxiao/source/external/droidscope_art_alternate/DECAF_shared/sleuthkit/bin";
-my $DATA_DIR="/home/zhenxiao/source/external/droidscope_art_alternate/DECAF_shared/sleuthkit/share";
+my $BIN_DIR="/home/developer/android_source/external/droidscope/DECAF_shared/sleuthkit/bin";
+my $DATA_DIR="/home/developer/android_source/external/droidscope/DECAF_shared/sleuthkit/share";
 my $VER="4.1.3";
 #
 # The Sleuth Kit

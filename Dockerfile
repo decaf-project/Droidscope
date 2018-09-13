@@ -38,7 +38,8 @@ RUN mkdir -p /home/developer/android_source/external
 RUN mkdir -p /home/developer/android_source/prebuilts
 RUN mkdir -p /home/developer/android_source/out
 RUN mkdir -p /home/developer/images
+RUN mkdir -p /home/developer/droidscope
 
 WORKDIR /home/developer/
-RUN sudo git clone https://github.com/bitsecurerlab/Droidscope.git
+#RUN sudo git clone https://github.com/bitsecurerlab/Droidscope.git
 

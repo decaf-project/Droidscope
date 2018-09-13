@@ -303,7 +303,7 @@ PCBIOS_PROBE=yes
 HOST_CC=${CC:-gcc}
 OPTION_CC=
 
-AOSP_PREBUILTS_DIR=$(dirname "$0")/../prebuilts
+AOSP_PREBUILTS_DIR=$(dirname "$0")/../../prebuilts
 if [ -d "$AOSP_PREBUILTS_DIR" ]; then
     AOSP_PREBUILTS_DIR=$(cd "$AOSP_PREBUILTS_DIR" && pwd -P 2>/dev/null)
 else

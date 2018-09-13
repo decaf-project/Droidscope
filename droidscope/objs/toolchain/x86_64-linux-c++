@@ -5,4 +5,4 @@
 
 
 # Tool invokation.
-/usr/bin/ccache /home/zhenxiao/source/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8/bin/x86_64-linux-c++  -m64 "$@" 
+/usr/bin/ccache /home/developer/android_source/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8/bin/x86_64-linux-c++  -m64 "$@" 
