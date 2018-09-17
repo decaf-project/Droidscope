@@ -35,8 +35,13 @@ and copy that IMAGE ID
 eg. command `ps` to list the running process
 ## Steps to use DroidUnpack
 ### 1. Build unpacker
-`./condigure --decaf-path=/<PATH_TO_DROIDSCOPE>/ --target=android` then `make`
-### 2. Load DroidUnpack in Droidscope
+`./condigure --decaf-path=/<PATH_TO_DROIDSCOPE>/ --target=android` then `make`  
+### 2. Install app  
+You may need to run install_uninstall.sh to install the app needed.  
+Or run the following commads before install the app  
+`adb shell setprop dalvik.vm.dex2oat-filter "interpret-only"`  
+`adb shell setprop dalvik.vm.image-dex2oat-filter "interpret-only"`   
+### 3. Load DroidUnpack in Droidscope
 `load_plugin DECAF_plugin/DroidUnpack/libunpacker.so`  
-### 3. Run cmd
+### 4. Run cmd
 `do_hookapitests procname`
