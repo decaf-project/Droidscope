@@ -1,9 +1,10 @@
 # README
 A docker file to build droidscope environment  
-## Host environment:  
-* android-5.0.0_r2  
-* goldfish3.4  
-* docker  
+## Host environment: 
+* Ubuntu 16.04
+* Android-5.0.0_r2  
+* Goldfish 3.4  
+* Docker  
 * Please find more instructions here:  
 * https://source.android.com/setup/build/downloading  
  https://github.com/enlighten5/android_build  
@@ -11,8 +12,8 @@ A docker file to build droidscope environment
 Please download the dependencies at first via:  
 `wget https://cluster.hpcc.ucr.edu/~zqi020/file_for_unpack/external.tar.gz`  
 `wget https://cluster.hpcc.ucr.edu/~zqi020/file_for_unpack/images.tar.gz`  
-`wget https://cluster.hpcc.ucr.edu/~zqi020/file_for_unpack/prebuilts.tar.gz`  
-`wget https://cluster.hpcc.ucr.edu/~zqi020/files/out.tar.gz`  
+`wget https://cluster.hpcc.ucr.edu/~zqi020/file_for_unpack/prebuilts.tar.gz`   
+`wget https://cluster.hpcc.ucr.edu/~zqi020/file_for_unpack/out.tar.gz`  
 Then use `tar -xvf`  to extract those files, which are needed in step 3  
 
 ## Steps to run Droidscope in docker:
